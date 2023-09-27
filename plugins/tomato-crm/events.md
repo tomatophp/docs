@@ -1,6 +1,6 @@
-# Events
+# 🔥 Events
 
-we have add a lot of events to the package, so you can listen to them and do what you want.
+we have added a lot of events to the package, so you can listen to them and do what you want.
 
 ### OTP Event
 
@@ -30,10 +30,9 @@ public function register()
 }
 ```
 
-
 ### Account Success Login Event
 
-when the user login successfully, we fire this event.
+When the user logs in successfully, we fire this event.
 
 ```php
 use TomatoPHP\TomatoCrm\Events\AccountLogged;
@@ -56,7 +55,7 @@ public function register()
 
 ### Account Registered Event
 
-when the user register successfully, we fire this event.
+When the user registers successfully, we fire this event.
 
 ```php
 use TomatoPHP\TomatoCrm\Events\AccountLogged;

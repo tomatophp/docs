@@ -1,4 +1,4 @@
-# Config
+# 💽 Config
 
 you can publish a config file by using this command
 

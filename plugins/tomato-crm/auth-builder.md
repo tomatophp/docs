@@ -1,6 +1,6 @@
-# Auth Builder
+# 🏗 Auth Builder
 
-you can build multi auth using the same accounts table with very easy why, so we create a Facade class to help you to do that.
+you can build multi-auth using the same accounts table in a very easy way, so we created a Facade class to help you do that.
 
 ### How to use
 
@@ -38,7 +38,7 @@ class AuthController extends Controller
     }
 ```
 
-and on your profile controller you just need to use `Profile` traits
+and on your profile controller, you just need to use `Profile` traits
 
 ```php
 use TomatoPHP\TomatoCrm\Services\Traits\Auth\Profile\User;
