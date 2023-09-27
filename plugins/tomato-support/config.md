@@ -1,2 +1,2 @@
-# Config
+# 💽 Config
 

@@ -1,2 +1,2 @@
-# Generate Setting
+# 🏗 Generate Setting
 
