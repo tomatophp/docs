@@ -1,15 +1,14 @@
 # 📐 Use
 
-you can start using wallet very easy by check these [docs](https://github.com/bavix/laravel-wallet).
+you can start using your wallet very easily by checking these [docs](https://github.com/bavix/laravel-wallet).
 
 ## Start using Payments
 
 > you can create your own custom drivers if it does not exist in the list, read the `Create custom drivers` section.
 
+In the config file, you can set the `default driver` to use for all your payments. But you can also change the driver at runtime.
 
-In the config file you can set the `default driver` to use for all your payments. But you can also change the driver at runtime.
-
-Choose what gateway you would like to use in your application. Then make that as default driver so that you don't have to specify that everywhere. But, you can also use multiple gateways in a project.
+Choose what gateway you would like to use in your application. Then make that as the default driver so that you don't have to specify that everywhere. But, you can also use multiple gateways in a project.
 
 ```php
 // Eg. if you want to use zarinpal.
@@ -39,7 +38,6 @@ your `Invoice` holds your payment details, so initially we'll talk about `Invoic
 
 before doing any thing you need to use `Invoice` class to create an invoice.
 
-
 In your code, use it like the below:
 
 ```php
@@ -65,22 +63,23 @@ $invoice->detail('detailName1','your detail1 goes here')
         ->detail('detailName2','your detail2 goes here');
 
 ```
+
 available methods:
 
-- `uuid`: set the invoice unique id
-- `getUuid`: retrieve the invoice current unique id
-- `detail`: attach some custom details into invoice
-- `getDetails`: retrieve all custom details
-- `amount`: set the invoice amount
-- `getAmount`: retrieve invoice amount
-- `transactionId`: set invoice payment transaction id
-- `getTransactionId`: retrieve payment transaction id
-- `via`: set a driver we use to pay the invoice
-- `getDriver`: retrieve the driver
+* `uuid`: set the invoice's unique ID
+* `getUuid`: retrieve the invoice's current unique ID
+* `detail`: attach some custom details to the invoice
+* `getDetails`: retrieve all custom details
+* `amount`: set the invoice amount
+* `getAmount`: retrieve invoice amount
+* `transactionId`: set invoice payment transaction ID
+* `getTransactionId`: retrieve payment transaction id
+* `via`: set up a driver we use to pay the invoice
+* `getDriver`: retrieve the driver
 
 #### Purchase invoice
-In order to pay the invoice, we need the payment transactionId.
-We purchase the invoice to retrieve transaction id:
+
+In order to pay the invoice, we need the payment transaction. We purchased the invoice to retrieve the transaction id:
 
 ```php
 // At the top of the file.
@@ -110,7 +109,7 @@ Payment::callbackUrl('http://yoursite.com/verify')->purchase(
 );
 ```
 
-#### Pay invoice
+#### Pay Invoice
 
 After purchasing the invoice, we can redirect the user to the bank payment page:
 
@@ -149,7 +148,7 @@ return Payment::purchase(
 
 #### Verify payment
 
-When user has completed the payment, the bank redirects them to your website, then you need to **verify your payment** in order to ensure the `invoice` has been **paid**.
+When the user has completed the payment, the bank redirects them to your website, then you need to **verify your payment** in order to ensure the `invoice` has been **paid**.
 
 ```php
 // At the top of the file.
@@ -179,90 +178,87 @@ try {
 
 #### Useful methods
 
-- ###### `callbackUrl`: can be used to change callbackUrl on the runtime.
+*   **`callbackUrl`: can be used to change callbackUrl on the runtime.**
 
-  ```php
-  // At the top of the file.
-  use TomatoPHP\TomatoWallet\Invoice;
-  use TomatoPHP\TomatoWallet\Facade\Payment;
-  ...
-  
-  // Create new invoice.
-  $invoice = (new Invoice)->amount(1000);
-  
-  // Purchase the given invoice.
-  Payment::callbackUrl($url)->purchase(
-      $invoice, 
-      function($driver, $transactionId) {
-      // We can store $transactionId in database.
-  	}
-  );
-  ```
+    ```php
+    // At the top of the file.
+    use TomatoPHP\TomatoWallet\Invoice;
+    use TomatoPHP\TomatoWallet\Facade\Payment;
+    ...
 
-- ###### `amount`: you can set the invoice amount directly
+    // Create new invoice.
+    $invoice = (new Invoice)->amount(1000);
 
-  ```php
-  // At the top of the file.
-  use TomatoPHP\TomatoWallet\Invoice;
-  use TomatoPHP\TomatoWallet\Facade\Payment;
-  ...
-  
-  // Purchase (we set invoice to null).
-  Payment::callbackUrl($url)->amount(1000)->purchase(
-      null, 
-      function($driver, $transactionId) {
-      // We can store $transactionId in database.
-  	}
-  );
-  ```
+    // Purchase the given invoice.
+    Payment::callbackUrl($url)->purchase(
+        $invoice, 
+        function($driver, $transactionId) {
+        // We can store $transactionId in database.
+    	}
+    );
+    ```
+*   **`amount`: you can set the invoice amount directly**
 
-- ###### `via`: change driver on the fly
+    ```php
+    // At the top of the file.
+    use TomatoPHP\TomatoWallet\Invoice;
+    use TomatoPHP\TomatoWallet\Facade\Payment;
+    ...
 
-  ```php
-  // At the top of the file.
-  use TomatoPHP\TomatoWallet\Invoice;
-  use TomatoPHP\TomatoWallet\Facade\Payment;
-  ...
-  
-  // Create new invoice.
-  $invoice = (new Invoice)->amount(1000);
-  
-  // Purchase the given invoice.
-  Payment::via('driverName')->purchase(
-      $invoice, 
-      function($driver, $transactionId) {
-      // We can store $transactionId in database.
-  	}
-  );
-  ```
+    // Purchase (we set invoice to null).
+    Payment::callbackUrl($url)->amount(1000)->purchase(
+        null, 
+        function($driver, $transactionId) {
+        // We can store $transactionId in database.
+    	}
+    );
+    ```
+*   **`via`: change driver on the fly**
 
-- ###### `config`: set driver configs on the fly
+    ```php
+    // At the top of the file.
+    use TomatoPHP\TomatoWallet\Invoice;
+    use TomatoPHP\TomatoWallet\Facade\Payment;
+    ...
 
-  ```php
-  // At the top of the file.
-  use TomatoPHP\TomatoWallet\Invoice;
-  use TomatoPHP\TomatoWallet\Facade\Payment;
-  ...
-  
-  // Create new invoice.
-  $invoice = (new Invoice)->amount(1000);
-  
-  // Purchase the given invoice with custom driver configs.
-  Payment::config('mechandId', 'your mechand id')->purchase(
-      $invoice,
-      function($driver, $transactionId) {
-      // We can store $transactionId in database.
-  	}
-  );
+    // Create new invoice.
+    $invoice = (new Invoice)->amount(1000);
 
-  // Also we can change multiple configs at the same time.
-  Payment::config(['key1' => 'value1', 'key2' => 'value2'])->purchase(
-      $invoice,
-      function($driver, $transactionId) {
-      // We can store $transactionId in database.
-  	}
-  );
-  ```
+    // Purchase the given invoice.
+    Payment::via('driverName')->purchase(
+        $invoice, 
+        function($driver, $transactionId) {
+        // We can store $transactionId in database.
+    	}
+    );
+    ```
+*   **`config`: set driver configs on the fly**
+
+    ```php
+    // At the top of the file.
+    use TomatoPHP\TomatoWallet\Invoice;
+    use TomatoPHP\TomatoWallet\Facade\Payment;
+    ...
+
+    // Create new invoice.
+    $invoice = (new Invoice)->amount(1000);
+
+    // Purchase the given invoice with custom driver configs.
+    Payment::config('mechandId', 'your mechand id')->purchase(
+        $invoice,
+        function($driver, $transactionId) {
+        // We can store $transactionId in database.
+    	}
+    );
+
+    // Also we can change multiple configs at the same time.
+    Payment::config(['key1' => 'value1', 'key2' => 'value2'])->purchase(
+        $invoice,
+        function($driver, $transactionId) {
+        // We can store $transactionId in database.
+    	}
+    );
+    ```
 
 #### Create custom drivers:
 
@@ -277,8 +273,7 @@ First you have to add the name of your driver, in the drivers array and also you
 ]
 ```
 
-Now you have to create a Driver Map Class that will be used to pay invoices.
-In your driver, You just have to extend `TomatoPHP\TomatoWallet\Abstracts\Driver`.
+Now you have to create a Driver Map Class that will be used to pay invoices. In your driver, You just have to extend `TomatoPHP\TomatoWallet\Abstracts\Driver`.
 
 Eg. You created a class: `App\Packages\PaymentDriver\MyDriver`.
 
@@ -359,5 +354,5 @@ Once you create that class you have to specify it in the `payment.php` config fi
 
 You can listen for 2 events
 
-- **InvoicePurchasedEvent**: Occurs when an invoice is purchased (after purchasing invoice is done successfully).
-- **InvoiceVerifiedEvent**: Occurs when an invoice is verified successfully.
+* **InvoicePurchasedEvent**: Occurs when an invoice is purchased (after purchasing invoice is done successfully).
+* **InvoiceVerifiedEvent**: This occurs when an invoice is verified successfully.

@@ -1,6 +1,6 @@
 # 🏗 Register Permission
 
-you can register any permission you need in the `AppServiceProvider` in the `register` method, it will be auto-registered when you open create / edit role page.
+you can register any permission you need in the `AppServiceProvider` in the `register` method, it will be auto-registered when you open the create/edit role page.
 
 ```php
 class AppServiceProvider extends ServiceProvider

@@ -14,7 +14,7 @@ composer require tomatophp/tomato-plugins
 
 ### Using
 
-you can run this command to get all plugins from Tomato Framework
+you can run this command to get all plugins from the Tomato Framework
 
 ```
 php artisan tomato:plugins
@@ -34,14 +34,4 @@ Please see [SECURITY](https://github.com/tomatophp/tomato-plugins/blob/master/SE
 
 ### License
 
-The MIT License (MIT). Please see [License File](https://github.com/tomatophp/tomato-plugins/blob/master/LICENSE.md) for more information.
-
-<details>
-
-<summary></summary>
-
-
-
-</details>
-
-\
+The MIT License (MIT). Please see [License File](https://github.com/tomatophp/tomato-plugins/blob/master/LICENSE.md) for more information.\
