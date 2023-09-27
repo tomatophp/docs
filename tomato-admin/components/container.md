@@ -1,6 +1,8 @@
-# Container
+# 🧊 Container
 
-we build a container component to make it easy to merge between page and model view, so this container convert any page to work as a page and model on the same time.
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+we build a container component to make it easy to merge between page and model view, so this container converts any page to work as a page and model at the same time.
 
 ### Use
 
@@ -24,9 +26,10 @@ you can access this page as a direct page or using `modal` on the `x-splade-link
     {{ __('Create User') }}
 </x-tomato-admin-button>
 ```
+
 ### Slots
 
-this container has 2 slots you can use it to custom your view
+this container has 2 slots you can use to custom your view
 
 ```html
 <x-slot:buttons>
@@ -34,7 +37,7 @@ this container has 2 slots you can use it to custom your view
 </x-slot:buttons>
 ```
 
-this slot use to attach more buttons on the top left side of the page
+this slot is used to attach more buttons on the top left side of the page
 
 ```html
 <x-slot:body>
@@ -42,4 +45,4 @@ this slot use to attach more buttons on the top left side of the page
 </x-slot:body>
 ```
 
-this slot use to add content after the card.
+this slot is used to add content after the card.

@@ -1,6 +1,6 @@
 # 🌉 Widgets
 
-we build a widget Facade service to make it easy to register a widget to dashboard home page from any provider, so you can use it on your package or on your AppServiceProvider as will.
+we built a widget Facade service to make it easy to register a widget to the dashboard home page from any provider, so you can use it on your package or on your AppServiceProvider as well.
 
 ## Registering a widget
 
@@ -26,4 +26,4 @@ public function boot()
 }
 ```
 
-and you will see the widget on the homepage of dashboard directly.
+and you will see the widget on the homepage of the dashboard directly.

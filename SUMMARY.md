@@ -21,7 +21,7 @@
 * [🛗 Generate CRUD](tomato-admin/generate-crud.md)
 * [🌉 Widgets](tomato-admin/widgets.md)
 * [📖 Menus](tomato-admin/menu.md)
-* [🔁 Requests](tomato-admin/requests.md)
+* [🔁 Requests](tomato-admin/requests/README.md)
   * [🔁 Index Request](tomato-admin/requests/index.md)
   * [🔁 JSON Request](tomato-admin/requests/json.md)
   * [🔁 Get Request](tomato-admin/requests/get.md)
@@ -38,12 +38,12 @@
   * [⚡ Select Input](tomato-admin/inputs/select-input.md)
   * [🔚 Submit](tomato-admin/inputs/submit.md)
 * [🗜 Components](tomato-admin/components/README.md)
-  * [Relation Manager](tomato-admin/components/relation-manager.md)
-  * [Container](tomato-admin/components/container.md)
-  * [View Row](tomato-admin/components/view-row.md)
-  * [Widget](tomato-admin/components/widget.md)
-  * [Button](tomato-admin/components/button.md)
-  * [Menu](tomato-admin/components/menu.md)
+  * [🔗 Relation Manager](tomato-admin/components/relation-manager.md)
+  * [🧊 Container](tomato-admin/components/container.md)
+  * [👁 View Row](tomato-admin/components/view-row.md)
+  * [🌉 Widget](tomato-admin/components/widget.md)
+  * [🔘 Button](tomato-admin/components/button.md)
+  * [📖 Menu](tomato-admin/components/menu.md)
 
 ## Tomato PHP
 

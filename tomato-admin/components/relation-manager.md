@@ -1,6 +1,8 @@
-# Relation Manager
+# 🔗 Relation Manager
 
-as we clone FilamentPHP Theme we get some VIP component, here is the relation manager component, this component use to manage the relation between models, for example, if you have a user model and you want to show roles of this user, you can use this component to do that.
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+as we clone FilamentPHP Theme we get some VIP components, here is the relation manager component, The component is used to manage the relation between models, for example, if you have a user model and you want to show the roles of this user, you can use this component to do that.
 
 ### Use
 
@@ -26,4 +28,4 @@ you can use it like this
 </x-tomato-admin-relations-group>
 ```
 
-as you see you can group relations table with `x-tomato-admin-relations-group` component, and you can add many relations table as you want inside this group, and you can use `x-tomato-admin-relations` component to add a relation table.
+as you see you can group the relations table with `x-tomato-admin-relations-group` component and you can add as many relations tables as you want inside this group, and you can use `x-tomato-admin-relations` component to add a relation table.

@@ -25,7 +25,7 @@ public function boot()
 
 and the menu will auto registered to your sidebar of the admin dashboard
 
-you can be ordering the groups or hide a group using this method
+you can order the groups or hide a group using this method
 
 ```php
 use TomatoPHP\TomatoAdmin\Facade\TomatoMenu;

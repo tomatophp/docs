@@ -1,6 +1,8 @@
-# View Row
+# 👁 View Row
 
-we all need to get a ready to use view item for our model, so we build this component to make it easy to use and customize.
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
+we all need to get a ready-to-use view item for our model, so we built this component to make it easy to use and customize.
 
 ### Use
 
@@ -13,6 +15,7 @@ you can use it like this
     type="text" 
 />
 ```
+
 or you can use it as a link like
 
 ```html
@@ -26,20 +29,20 @@ or you can use it as a link like
 />
 ```
 
-and it's accept on value just string value and you can use this types:
+and it's accepted on value just string value and you can use this types:
 
-- text
-- string
-- rich
-- number
-- email
-- tel
-- badge `this type accept icon and color and href`
-- date
-- datetime
-- time
-- image 
-- images
-- icon
-- color
-- bool
+* text
+* string
+* rich
+* number
+* email
+* tel
+* badge `this type accept icon and color and href`
+* date
+* datetime
+* time
+* image
+* images
+* icon
+* color
+* bool

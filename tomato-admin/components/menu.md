@@ -1,6 +1,8 @@
-# Menu
+# 📖 Menu
 
-as you know on the config page you can use a custom menu view for the sidebar of dashboard so we build a component to make it easy to add a new menu with groups to this custom view
+<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+
+as you know on the config page you can use a custom menu view for the sidebar of the dashboard so we build a component to make it easy to add a new menu with groups to this custom view
 
 ### Use
 
@@ -27,4 +29,4 @@ you can use it like this
 </x-menu-group>
 ```
 
-the group component use to group items together, but you can use menu item direct without group
+the group component used to group items together, but you can use menu items direct without a group

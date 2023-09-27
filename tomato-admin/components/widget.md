@@ -1,6 +1,8 @@
-# Widget
+# 🌉 Widget
 
-as we get Widget Facade service to register the widgets to the dashboard homepage, we get this component to register the same widgets anywhere.
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
+as we get the Widget Facade service to register the widgets to the dashboard homepage, we get this component to register the same widgets anywhere.
 
 ### Use
 
@@ -25,7 +27,6 @@ or you can just pass a direct model and we will count it
 ```
 
 and you can change the query like this
-
 
 ```html
 <x-tomato-admin-widget

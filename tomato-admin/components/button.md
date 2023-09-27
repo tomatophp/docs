@@ -1,6 +1,8 @@
-# Button
+# 🔘 Button
 
-we are using buttons everywhere on the dashboard so we do 1 component to manage buttons types and button multi style 
+<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
+we are using buttons everywhere on the dashboard so we do 1 component to manage button types and button multi-style
 
 ## Use
 
@@ -16,7 +18,9 @@ you can add a new button like this
 </x-tomato-admin-button>
 ```
 
-or you can use it as a icon button inside table like this
+or you can use it as an icon button inside a table like this
+
+<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
 
 ```html
 <x-tomato-admin-button 
@@ -30,7 +34,9 @@ or you can use it as a icon button inside table like this
 </x-tomato-admin-button>
 ```
 
-and the button working as well as the `x-splade-link` so you can create a delete button like this
+<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
+and the button works as well as the `x-splade-link` so you can create a delete button like this
 
 ```html
 <x-tomato-admin-button 
