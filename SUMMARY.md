@@ -20,7 +20,7 @@
 * [🧠 Install](tomato-admin/install.md)
 * [🛗 Generate CRUD](tomato-admin/generate-crud.md)
 * [🌉 Widgets](tomato-admin/widgets.md)
-* [📖 Menu Provider](tomato-admin/menu.md)
+* [📖 Menus](tomato-admin/menu.md)
 * [🔁 Requests](tomato-admin/requests.md)
   * [🔁 Index Request](tomato-admin/requests/index.md)
   * [🔁 JSON Request](tomato-admin/requests/json.md)
