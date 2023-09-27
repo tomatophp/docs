@@ -4,56 +4,56 @@ description: you can show the APIs Endpoints here
 
 # 🔁 APIs
 
-you can active this feature or stop it from config file and use your own routes or your own controllers.
+you can activate this feature or stop it from the config file and use your own routes or your own controllers.
 
-### Auth APIS
+### Auth Endpoints
 
-{% swagger src="../../.gitbook/assets/document.json" path="/login" method="post" %}
-[document.json](../../.gitbook/assets/document.json)
+{% swagger src="../../.gitbook/assets/document (1).json" path="/login" method="post" %}
+[document (1).json](<../../.gitbook/assets/document (1).json>)
 {% endswagger %}
 
-{% swagger src="../../.gitbook/assets/document.json" path="/register" method="post" %}
-[document.json](../../.gitbook/assets/document.json)
+{% swagger src="../../.gitbook/assets/document (1).json" path="/register" method="post" %}
+[document (1).json](<../../.gitbook/assets/document (1).json>)
 {% endswagger %}
 
-{% swagger src="../../.gitbook/assets/document.json" path="/reset" method="post" %}
-[document.json](../../.gitbook/assets/document.json)
+{% swagger src="../../.gitbook/assets/document (1).json" path="/reset" method="post" %}
+[document (1).json](<../../.gitbook/assets/document (1).json>)
 {% endswagger %}
 
-{% swagger src="../../.gitbook/assets/document.json" path="/resend" method="post" %}
-[document.json](../../.gitbook/assets/document.json)
+{% swagger src="../../.gitbook/assets/document (1).json" path="/resend" method="post" %}
+[document (1).json](<../../.gitbook/assets/document (1).json>)
 {% endswagger %}
 
-{% swagger src="../../.gitbook/assets/document.json" path="/otp" method="post" %}
-[document.json](../../.gitbook/assets/document.json)
+{% swagger src="../../.gitbook/assets/document (1).json" path="/otp" method="post" %}
+[document (1).json](<../../.gitbook/assets/document (1).json>)
 {% endswagger %}
 
-{% swagger src="../../.gitbook/assets/document.json" path="/otp-check" method="post" %}
-[document.json](../../.gitbook/assets/document.json)
+{% swagger src="../../.gitbook/assets/document (1).json" path="/otp-check" method="post" %}
+[document (1).json](<../../.gitbook/assets/document (1).json>)
 {% endswagger %}
 
-{% swagger src="../../.gitbook/assets/document.json" path="/password" method="post" %}
-[document.json](../../.gitbook/assets/document.json)
+{% swagger src="../../.gitbook/assets/document (1).json" path="/password" method="post" %}
+[document (1).json](<../../.gitbook/assets/document (1).json>)
 {% endswagger %}
 
-### Profile APIs
+### Profile Endpoints
 
-{% swagger src="../../.gitbook/assets/document.json" path="/profile" method="get" %}
-[document.json](../../.gitbook/assets/document.json)
+{% swagger src="../../.gitbook/assets/document (1).json" path="/profile" method="get" %}
+[document (1).json](<../../.gitbook/assets/document (1).json>)
 {% endswagger %}
 
-{% swagger src="../../.gitbook/assets/document.json" path="/profile" method="post" %}
-[document.json](../../.gitbook/assets/document.json)
+{% swagger src="../../.gitbook/assets/document (1).json" path="/profile" method="post" %}
+[document (1).json](<../../.gitbook/assets/document (1).json>)
 {% endswagger %}
 
-{% swagger src="../../.gitbook/assets/document.json" path="/profile/password" method="post" %}
-[document.json](../../.gitbook/assets/document.json)
+{% swagger src="../../.gitbook/assets/document (1).json" path="/profile/password" method="post" %}
+[document (1).json](<../../.gitbook/assets/document (1).json>)
 {% endswagger %}
 
-{% swagger src="../../.gitbook/assets/document.json" path="/profile/destroy" method="delete" %}
-[document.json](../../.gitbook/assets/document.json)
+{% swagger src="../../.gitbook/assets/document (1).json" path="/profile/destroy" method="delete" %}
+[document (1).json](<../../.gitbook/assets/document (1).json>)
 {% endswagger %}
 
-{% swagger src="../../.gitbook/assets/document.json" path="/profile/logout" method="post" %}
-[document.json](../../.gitbook/assets/document.json)
+{% swagger src="../../.gitbook/assets/document (1).json" path="/profile/logout" method="post" %}
+[document (1).json](<../../.gitbook/assets/document (1).json>)
 {% endswagger %}

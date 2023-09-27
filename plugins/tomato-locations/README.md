@@ -4,7 +4,7 @@ description: Database seeds for Locations plugin for TomatoPHP
 
 # 🌎 Tomato Locations
 
-<figure><img src="../.gitbook/assets/screenshot (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot (11).png" alt=""><figcaption></figcaption></figure>
 
 ### Installation
 
