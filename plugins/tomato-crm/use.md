@@ -85,3 +85,12 @@ public function boot()
     );
 }
 ```
+
+
+## Publish Model
+
+you can publish the account model to your app by just running this command
+
+```bash
+php artisan vendor:publish --tag=tomato-crm-model
+```

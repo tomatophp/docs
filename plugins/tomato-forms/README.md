@@ -17,18 +17,6 @@ after installation please run this command
 php artisan tomato-forms:install
 ```
 
-### Using
-
-you can build a form schema by using this command
-
-```
-php artisan tomato-forms:generate
-```
-
-it will generate a form on the database and build a schema to build this form with the same value on any projects
-
-
-
 ### Changelog
 
 Please see [CHANGELOG](https://github.com/tomatophp/tomato-forms/blob/master/CHANGELOG.md) for more information on what has changed recently.
@@ -52,5 +40,3 @@ The MIT License (MIT). Please see [License File](https://github.com/tomatophp/to
 
 
 </details>
-
-\

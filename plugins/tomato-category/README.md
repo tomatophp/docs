@@ -18,32 +18,6 @@ after installing your package please run this command
 php artisan tomato-categories:install
 ```
 
-### Publish Assets
-
-you can publish a config file by using this command
-
-```
-php artisan vendor:publish --tag="tomato-category-config"
-```
-
-you can publish views file by using this command
-
-```
-php artisan vendor:publish --tag="tomato-category-views"
-```
-
-you can publish languages file by using this command
-
-```
-php artisan vendor:publish --tag="tomato-category-lang"
-```
-
-you can publish migrations file by using this command
-
-```
-php artisan vendor:publish --tag="tomato-category-migrations"
-```
-
 ### Support
 
 you can join our discord server to get support [TomatoPHP](https://discord.gg/VZc8nBJ3ZU)
