@@ -120,6 +120,7 @@
 * [🙏 Task To Get Start](learn/task-to-get-start.md)
 * [🔴 Use Github](learn/use-github.md)
 * [🦄 Awesome TailwindCSS](learn/awesome-tailwindcss.md)
+* [💻 Terminal](learn/terminal.md)
 
 ## Contact
 
