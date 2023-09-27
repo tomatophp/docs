@@ -1,4 +1,4 @@
-# 📖 Menu
+# 📖 Menus
 
 it's a very easy-to-use menu provider by just using this class method on your app service provider
 
