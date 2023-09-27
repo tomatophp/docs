@@ -49,7 +49,7 @@ please review these packages before starting development.
 * RTL/Dark Mode Support
 * Ready to Use Breeze Tool Kit Support RTL/Dark Mode
 * Ready to Use Arabic / English Translations
-* Easy To use [Menu With Provider](tomato-php/menu-provider.md)
+* Easy To use [Menu With Provider](tomato-admin/menu.md)
 
 ### Credits
 

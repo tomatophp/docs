@@ -48,7 +48,7 @@
 
 * [🚀 Get Started](tomato-php/get-started.md)
 * [🎹 Use](tomato-php/use.md)
-* [📖 Menu Provider](tomato-php/menu-provider.md)
+* [📖 Menu Provider](tomato-admin/menu.md)
 
 ## Plugins
 
