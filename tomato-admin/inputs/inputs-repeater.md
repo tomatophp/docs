@@ -1,6 +1,6 @@
 # 🔁 Inputs Repeater
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 if you have a JSON object and you want to fill it with data with a selected type of input? it can be easy to use Repeater Components.
 

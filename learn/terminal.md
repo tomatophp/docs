@@ -1,6 +1,6 @@
 # 💻 Terminal
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 as we like to make everything more easy for our community, in this article we will explain how you can get your terminal to be like this one.
 

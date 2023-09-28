@@ -115,6 +115,13 @@
 * [📽 Laravel Agora](helpers/laravel-agora.md)
 * [💿 Laravel Package Generator](helpers/laravel-package-generator.md)
 
+## Filament
+
+* [👨🏭 Filament Users](filament/filament-users/README.md)
+  * [📢 Publish Assets](filament/filament-users/publish-assets.md)
+* [🌎 Filament Translations](filament/filament-translations/README.md)
+  * [Screenshots](filament/filament-translations/screenshots.md)
+
 ## Learn
 
 * [🙏 Task To Get Start](learn/task-to-get-start.md)
