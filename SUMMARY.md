@@ -118,9 +118,11 @@
 ## Filament
 
 * [👨🏭 Filament Users](filament/filament-users/README.md)
+  * [🏗 Installation](filament/filament-users/installation.md)
   * [📢 Publish Assets](filament/filament-users/publish-assets.md)
 * [🌎 Filament Translations](filament/filament-translations/README.md)
-  * [Screenshots](filament/filament-translations/screenshots.md)
+  * [🏗 Installation](filament/filament-translations/installation.md)
+  * [🛣 Screenshots](filament/filament-translations/screenshots.md)
 
 ## Learn
 

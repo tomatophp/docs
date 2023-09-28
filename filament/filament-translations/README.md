@@ -6,47 +6,9 @@ description: Manage your translation with DB and cache
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-Manage your translation with DB and cache, you can scan your languages tags like `trans()`, `__()`, and get the string inside and translate them use UI.
+Manage your translation with DB and cache, you can scan your language tags like `trans()`, `__()`, and get the string inside and translate them using UI.
 
-this plugin is build in [spatie/laravel-translation-loader](https://github.com/spatie/laravel-translation-loader)
-
-### Installation <a href="#user-content-installation" id="user-content-installation"></a>
-
-```
-composer require tomatophp/filament-translations
-```
-
-### Publish Resource <a href="#user-content-publish-resource" id="user-content-publish-resource"></a>
-
-you can publish the resource to your project
-
-```
-php artisan vendor:publish --tag="filament-translations-migrations"
-```
-
-if you need to publish the config
-
-```
-php artisan vendor:publish --tag="filament-translations-config"
-```
-
-Run migration:
-
-```
-php artisan migrate
-```
-
-and now clear the cache
-
-```
-php artisan optimize:clear
-```
-
-finally, register the plugin on `/app/Providers/Filament/AdminPanelProvider.php`
-
-```
-$panel->plugin(\TomatoPHP\FilamentTranslations\FilamentTranslationsPlugin::make())
-```
+this plugin is built in [spatie/laravel-translation-loader](https://github.com/spatie/laravel-translation-loader)
 
 ### Support <a href="#user-content-support" id="user-content-support"></a>
 

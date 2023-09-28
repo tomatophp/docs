@@ -6,18 +6,6 @@ description: User Resource For FilamentPHP Admin Dashboard
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-### Installation <a href="#user-content-installation" id="user-content-installation"></a>
-
-```
-composer require tomatophp/filament-users
-```
-
-finally, register the plugin on `/app/Providers/Filament/AdminPanelProvider.php`
-
-```
-$panel->plugin(\TomatoPHP\FilamentUsers\FilamentUsersPlugin::make())
-```
-
 ### Support <a href="#user-content-support" id="user-content-support"></a>
 
 you can join our discord server to get support [TomatoPHP](https://discord.gg/VZc8nBJ3ZU)

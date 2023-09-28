@@ -1,6 +1,4 @@
-# Screenshots
-
-Screenshots
+# 🛣 Screenshots
 
 &#x20;&#x20;
 
