@@ -133,5 +133,6 @@
 
 ## Contact
 
+* [✖ Twitter](https://x.com/engfadymondy)
 * [👨💻 GitHub](https://github.com/tomatophp)
 * [💁 Discord](https://discord.gg/VZc8nBJ3ZU)
