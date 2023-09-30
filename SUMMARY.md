@@ -20,6 +20,7 @@
 * [🚀 Get Started](tomato-admin/get-started.md)
 * [🧠 Install](tomato-admin/install.md)
 * [🛗 Generate CRUD](tomato-admin/generate-crud.md)
+* [👓 Slots](tomato-admin/slots.md)
 * [🌉 Widgets](tomato-admin/widgets.md)
 * [📖 Menus](tomato-admin/menu.md)
 * [🔁 Requests](tomato-admin/requests/README.md)
