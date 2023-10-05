@@ -132,9 +132,3 @@
 * [🔴 Use Github](learn/use-github.md)
 * [🦄 Awesome TailwindCSS](learn/awesome-tailwindcss.md)
 * [💻 Terminal](learn/terminal.md)
-
-## Contact
-
-* [✖ Twitter](https://x.com/engfadymondy)
-* [👨💻 GitHub](https://github.com/tomatophp)
-* [💁 Discord](https://discord.gg/VZc8nBJ3ZU)
