@@ -130,5 +130,11 @@
 
 * [🙏 Task To Get Start](learn/task-to-get-start.md)
 * [🔴 Use Github](learn/use-github.md)
+* [🔥 Deploy Laravel App Using GitHub Actions](learn/deploy-laravel-app-using-github-actions/README.md)
+  * [🏯 Install Cloudpanel](learn/deploy-laravel-app-using-github-actions/install-cloudpanel.md)
+  * [🔓 Link Cloudflare](learn/deploy-laravel-app-using-github-actions/link-cloudflare.md)
+  * [🔃 Clone Repo](learn/deploy-laravel-app-using-github-actions/clone-repo.md)
+  * [🎇 Workflow](learn/deploy-laravel-app-using-github-actions/workflow.md)
+  * [🦕 Deploy Script](learn/deploy-laravel-app-using-github-actions/deploy-script.md)
 * [🦄 Awesome TailwindCSS](learn/awesome-tailwindcss.md)
 * [💻 Terminal](learn/terminal.md)

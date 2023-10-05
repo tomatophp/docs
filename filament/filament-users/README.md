@@ -4,7 +4,7 @@ description: User Resource For FilamentPHP Admin Dashboard
 
 # 👨🏭 Filament Users
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### Support <a href="#user-content-support" id="user-content-support"></a>
 
