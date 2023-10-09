@@ -87,6 +87,9 @@
   * [🗂 Payment Methods](plugins/tomato-wallet/payment-methods.md)
   * [💽 Config](plugins/tomato-wallet/config.md)
   * [🔁 APIs](plugins/tomato-wallet/apis.md)
+* [🏬 Tomato Subscription](plugins/tomato-subscription/README.md)
+  * [📐 Use](plugins/tomato-subscription/use.md)
+  * [💽 Config](plugins/tomato-subscription/config.md)
 * [🎧 Tomato Support](plugins/tomato-support/README.md)
   * [📐 Use](plugins/tomato-support/use.md)
   * [💽 Config](plugins/tomato-support/config.md)
@@ -109,7 +112,6 @@
   * [🌭 Tomato Sauce](plugins/deprecated-plugins/tomato-sauce.md)
   * [🌟 Tomato SaaS](plugins/deprecated-plugins/tomato-saas.md)
   * [🍕 Tomato Themes](plugins/deprecated-plugins/tomato-themes.md)
-  * [💳 Tomato Subscription](plugins/deprecated-plugins/tomato-subscription.md)
 
 ## Helpers
 
