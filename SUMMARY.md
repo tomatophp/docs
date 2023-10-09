@@ -55,6 +55,7 @@
 ## Plugins
 
 * [🔌 Get Started](plugins/get-started.md)
+* [✈ Tomato API](plugins/tomato-api.md)
 * [👨💼 Tomato CRM](plugins/tomato-crm/README.md)
   * [📐 Use](plugins/tomato-crm/use.md)
   * [🏗 Auth Builder](plugins/tomato-crm/auth-builder.md)
@@ -98,14 +99,13 @@
   * [🔁 APIs](plugins/tomato-locations/apis.md)
 * [🔤 Tomato Translations](plugins/tomato-translations.md)
 * [👨💻 Tomato Artisan](plugins/tomato-artisan.md)
+* [🧪 Tomato Dusk](plugins/tomato-dusk.md)
 * [🎒 Tomato Backup](plugins/tomato-backup.md)
 * [📂 Tomato Browser](plugins/tomato-browser.md)
 * [📕 Tomato Logs](plugins/tomato-logs.md)
 * [❌ Deprecated Plugins](plugins/deprecated-plugins/README.md)
-  * [✈ Tomato API](plugins/deprecated-plugins/tomato-api.md)
   * [⚔ Tomato Chat](plugins/deprecated-plugins/tomato-chat.md)
   * [📃 Tomato CMS](plugins/deprecated-plugins/tomato-cms.md)
-  * [🧪 Tomato Dusk](plugins/deprecated-plugins/tomato-dusk.md)
   * [🚦 Tomato Figma](plugins/deprecated-plugins/tomato-figma.md)
   * [📖 Tomato Menus](plugins/deprecated-plugins/tomato-menus.md)
   * [👨🍳 Tomato Relation Manager](plugins/deprecated-plugins/tomato-relation-manager.md)

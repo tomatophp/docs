@@ -42,10 +42,10 @@ please review these packages before starting development.
 ### Features
 
 * SPA App With Blade
-* CURD Generator [Web](broken-reference) / [API](plugins/deprecated-plugins/tomato-api.md)
+* CURD Generator [Web](broken-reference/) / [API](plugins/tomato-api.md)
 * Support [HMVC](https://nwidart.com/laravel-modules/v6/introduction) Architecture
 * [Authentication & User Manager](plugins/tomato-roles/)
-* Responsive UI Using [Filament Template](broken-reference)
+* Responsive UI Using [Filament Template](broken-reference/)
 * RTL/Dark Mode Support
 * Ready to Use Breeze Tool Kit Support RTL/Dark Mode
 * Ready to Use Arabic / English Translations
