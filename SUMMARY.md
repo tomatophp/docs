@@ -105,6 +105,8 @@
 * [📖 Tomato Menus](plugins/tomato-menus/README.md)
   * [📐 Use](plugins/tomato-menus/use.md)
   * [💽 Config](plugins/tomato-menus/config.md)
+* [📱 Tomato Flutter](plugins/tomato-flutter/README.md)
+  * [📐 Use](plugins/tomato-flutter/use.md)
 * [✈ Tomato API](plugins/tomato-api.md)
 * [🚦 Tomato Figma](plugins/tomato-figma.md)
 * [🌟 Tomato SaaS](plugins/tomato-saas.md)
