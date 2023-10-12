@@ -95,7 +95,7 @@ This facade accepts an array or just 1 Menu class so you can use it as you like
 make sure that your view is clean by using this command
 
 ```bash
-php aritsan optimize:clear
+php artisan optimize:clear
 ```
 
 BOM.. your CRUD is ready.
