@@ -47,10 +47,7 @@ yarn build
 
 now your app is ready to login `admin/login`
 
-```
-EMAIL=admin@admin.com
-PASSWORD=password
-```
+but you need to create a user from `/register` or just install [tomato-roles](../plugins/tomato-roles/ "mention")
 
 enjoy it 🍅
 
@@ -65,7 +62,7 @@ bin/serve
 The `bin/serve` script is for installing the dependencies and setting up the local environment.\
 The only requirement beforehand is that Docker/Docker Desktop is installed.
 
-### Run Websocket
+### Run WebSocket
 
 you can run your socket server just by running this command without any config
 
