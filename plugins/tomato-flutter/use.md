@@ -6,6 +6,8 @@ to generate a new app you just need to run this command
 php artisan tomato-flutter:generate
 ```
 
+make sure you are installed [tomato-crm](../tomato-crm/ "mention") and the [apis.md](../tomato-crm/apis.md "mention") is working fine.
+
 ### Generate Module <a href="#user-content-generate-module" id="user-content-generate-module"></a>
 
 to generate a new module you just need to run this command
