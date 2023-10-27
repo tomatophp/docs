@@ -1,6 +1,6 @@
 # 🦄 Awesome TailwindCSS
 
-our stack is VILT, so we use CSS TailwindCSS so we now will install these packages inside the laravel app we created in the last step but before we start we need to install NPM & Yarn
+our stack is VILT, so we use CSS TailwindCSS we now install these packages inside the Laravel app we created in the last step but before we start we need to install NPM & Yarn
 
 ```bash
 curl -fsSL https://deb.nodesource.com/setup_16.x | sudo bash -
@@ -23,19 +23,18 @@ you can make your edits on the frontend file inside `resources/js`
 ### Awesome Resources for Tailwind
 
 1. [Tailwind Kit](https://www.tailwind-kit.com/)
-2. [Gust UI](https://www.gustui.com/)
-3. [Lofi UI](https://lofiui.co/)
-4. [Merak UI](https://merakiui.com/)
-5. [Windstrap](https://windstrap.netlify.app/)
-6. [Tailwind Components](https://tailwindcomponents.com/)
-7. [Kit Wind](https://kitwind.io/)
-8. [Tailblocks](https://tailblocks.cc/)
-9. [Tailwind Toolbox](https://www.tailwindtoolbox.com/)
-10. [Mamba UI](https://www.mambaui.com/)
-11. [Kutty](https://kutty.netlify.app/)
-12. [Daisy UI](https://daisyui.com/)
-13. [Flowbite](https://flowbite.com/)
-14. [Tailwind UI Kit](https://tailwinduikit.com/)
-15. [Hyper UI](https://hyperui.dev/)
-16. [Post Src](https://postsrc.com/)
-17. [Tailwind Elements](https://tailwind-elements.com/)
+2. [Gust UI](https://www.gust-ui.com/)
+3. [Merak UI](https://merakiui.com/)
+4. [Windstrap](https://windstrap.netlify.app/)
+5. [Tailwind Components](https://tailwindcomponents.com/)
+6. [Kit Wind](https://kitwind.io/)
+7. [Tailblocks](https://tailblocks.cc/)
+8. [Tailwind Toolbox](https://www.tailwindtoolbox.com/)
+9. [Mamba UI](https://www.mambaui.com/)
+10. [Kutty](https://kutty.netlify.app/)
+11. [Daisy UI](https://daisyui.com/)
+12. [Flowbite](https://flowbite.com/)
+13. [Tailwind UI Kit](https://tailwinduikit.com/)
+14. [Hyper UI](https://hyperui.dev/)
+15. [Post Src](https://postsrc.com/)
+16. [Tailwind Elements](https://tailwind-elements.com/)

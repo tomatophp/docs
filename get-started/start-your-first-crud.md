@@ -84,7 +84,7 @@ public function boot()
         Menu::make()
             ->group('Resources')
             ->label('Users')
-            ->route('admin.users.index')
+            ->route('admin.customers.index')
             ->icon('bx bx-user')
     );
 }
