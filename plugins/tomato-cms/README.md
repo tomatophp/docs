@@ -15,33 +15,7 @@ composer require tomatophp/tomato-cms
 after installing your package please run this command
 
 ```
-php artisan tomato-cms:install
-```
-
-### Publish Assets
-
-you can publish a config file by using this command
-
-```
-php artisan vendor:publish --tag="tomato-cms-config"
-```
-
-you can publish views file by using this command
-
-```
-php artisan vendor:publish --tag="tomato-cms-views"
-```
-
-you can publish languages file by using this command
-
-```
-php artisan vendor:publish --tag="tomato-cms-lang"
-```
-
-you can publish migrations file by using this command
-
-```
-php artisan vendor:publish --tag="tomato-cms-migrations"
+php artisan tomato-cms:installPublish Assets
 ```
 
 ### Changelog
