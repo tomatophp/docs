@@ -18,6 +18,36 @@ after that use this command to install
 php artisan tomato-backup:install
 ```
 
+### Markdown Editor Install
+
+we need a markdown editor to make this package work fine, let's start by installing it
+
+```bash
+yarn add md-editor-v3
+```
+
+now on your app.js add this code
+
+```javascript
+import { MdEditor, MdPreview } from 'md-editor-v3';
+import 'md-editor-v3/lib/style.css';
+
+createApp({
+    render: renderSpladeApp({ el }),
+})
+    .use(SpladePlugin, {
+        max_keep_alive: 10,
+        transform_anchors: false,
+        progress_bar: true,
+    })
+    ...
+    .component("MdEditor",  MdEditor)
+    .component("MdPreview", MdPreview)
+    .mount(el);
+```
+
+now your markdown editor is ready.
+
 ### Changelog
 
 Please see [CHANGELOG](https://github.com/tomatophp/tomato-backup/blob/master/CHANGELOG.md) for more information on what has changed recently.

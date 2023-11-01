@@ -15,7 +15,15 @@ composer require tomatophp/tomato-cms
 after installing your package please run this command
 
 ```
-php artisan tomato-cms:installPublish Assets
+php artisan tomato-cms:install
+```
+
+### Markdown Editor Install
+
+we need markdown editor to be installed on your frontend let's start by install the package
+
+```bash
+yarn add 
 ```
 
 ### Changelog
