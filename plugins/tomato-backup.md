@@ -48,6 +48,12 @@ createApp({
 
 now your markdown editor is ready.
 
+now rebuild your frontend
+
+```bash
+yarn build
+```
+
 ### Changelog
 
 Please see [CHANGELOG](https://github.com/tomatophp/tomato-backup/blob/master/CHANGELOG.md) for more information on what has changed recently.
