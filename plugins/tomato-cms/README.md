@@ -20,10 +20,30 @@ php artisan tomato-cms:install
 
 ### Markdown Editor Install
 
-we need markdown editor to be installed on your frontend let's start by install the package
+we need a markdown editor to be installed on your front let's start by installing the package
 
 ```bash
-yarn add 
+yarn add md-editor-v3
+```
+
+now you need to allow it on your app.js
+
+```javascript
+import { MdEditor, MdPreview } from 'md-editor-v3';
+import 'md-editor-v3/lib/style.css';
+
+createApp({
+    render: renderSpladeApp({ el })
+})
+    .use(SpladePlugin, {
+        max_keep_alive: 10,
+        transform_anchors: false,
+        progress_bar: true,
+    })
+    .component("MdEditor", MdEditor)
+    .component("MdPreview", MdPreview)
+    ...
+    .mount(el);
 ```
 
 ### Changelog

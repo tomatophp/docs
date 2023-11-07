@@ -3,6 +3,7 @@
 this package is very good if you like to build a Company website or blog or personal profile website it supports a lot of CRUDs for any CMS like
 
 * Posts
+* Pages
 * Comments
 * Photos
 * Sections
