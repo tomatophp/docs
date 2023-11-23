@@ -122,10 +122,11 @@
 * [🎒 Tomato Backup](plugins/tomato-backup.md)
 * [📂 Tomato Browser](plugins/tomato-browser.md)
 * [📕 Tomato Logs](plugins/tomato-logs.md)
-* [❌ Deprecated Plugins](plugins/deprecated-plugins/README.md)
-  * [👨🍳 Tomato Relation Manager](plugins/deprecated-plugins/tomato-relation-manager.md)
-  * [🌭 Tomato Sauce](plugins/deprecated-plugins/tomato-sauce.md)
-  * [🍕 Tomato Themes](plugins/deprecated-plugins/tomato-themes.md)
+* [🏗 Tomato Builder](plugins/tomato-builder/README.md)
+  * [🧠 Install](plugins/tomato-builder/install.md)
+  * [🖍 Use](plugins/tomato-builder/use.md)
+  * [🌆 Screenshots](plugins/tomato-builder/screenshots.md)
+  * [💿 Config](plugins/tomato-builder/config.md)
 
 ## Helpers
 
