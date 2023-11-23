@@ -127,6 +127,12 @@
   * [🖍 Use](plugins/tomato-builder/use.md)
   * [🌆 Screenshots](plugins/tomato-builder/screenshots.md)
   * [💿 Config](plugins/tomato-builder/config.md)
+* [👜 Tomato Products](plugins/tomato-products/README.md)
+  * [💿 Config](plugins/tomato-products/config.md)
+  * [🌆 Screenshots](plugins/tomato-products/screenshots.md)
+* [🚀 Tomato Orders](plugins/tomato-orders/README.md)
+  * [💿 Config](plugins/tomato-orders/config.md)
+  * [🌆 Screenshots](plugins/tomato-orders/screenshots.md)
 
 ## Helpers
 
