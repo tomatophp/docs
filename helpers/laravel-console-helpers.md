@@ -4,7 +4,7 @@ description: tons of helper you need for you artisan command line application
 
 # 🍕 Laravel Console Helpers
 
-<figure><img src="../.gitbook/assets/screenshot (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/screenshot (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Installation
 

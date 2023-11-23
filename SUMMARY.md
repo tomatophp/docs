@@ -133,6 +133,9 @@
 * [🚀 Tomato Orders](plugins/tomato-orders/README.md)
   * [💿 Config](plugins/tomato-orders/config.md)
   * [🌆 Screenshots](plugins/tomato-orders/screenshots.md)
+* [💯 Tomato Coupons](plugins/tomato-coupons/README.md)
+  * [💿 Config](plugins/tomato-coupons/config.md)
+  * [🌆 Screenshots](plugins/tomato-coupons/screenshots.md)
 
 ## Helpers
 
