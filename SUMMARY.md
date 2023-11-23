@@ -136,6 +136,9 @@
 * [💯 Tomato Coupons](plugins/tomato-coupons/README.md)
   * [💿 Config](plugins/tomato-coupons/config.md)
   * [🌆 Screenshots](plugins/tomato-coupons/screenshots.md)
+* [🛍 Tomato Ecommerce](plugins/tomato-ecommerce/README.md)
+  * [💿 Config](plugins/tomato-ecommerce/config.md)
+  * [🌆 Screenshots](plugins/tomato-ecommerce/screenshots.md)
 
 ## Helpers
 
