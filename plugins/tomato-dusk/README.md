@@ -6,16 +6,22 @@ description: Laravel Dusk unit test with GUI for Tomato Framework
 
 <figure><img src="../../.gitbook/assets/screenshot (9).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../.gitbook/assets/Screenshot 2023-11-23 at 5.25.00 PM (1).png" alt=""><figcaption></figcaption></figure>
+
 ### Installation
 
 ```
 composer require tomatophp/tomato-dusk
 ```
 
-after install use this command to install dusk
+after installation use this command to install dusk
 
 ```
 php artisan tomato-dusk:install
+```
+
+```bash
+php artisan dusk:install
 ```
 
 ### Changelog

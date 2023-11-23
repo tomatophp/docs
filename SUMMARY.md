@@ -98,6 +98,8 @@
   * [🔁 APIs](plugins/tomato-locations/apis.md)
 * [🧪 Tomato Dusk](plugins/tomato-dusk/README.md)
   * [📐 Use](plugins/tomato-dusk/use.md)
+  * [💿 Config](plugins/tomato-dusk/config.md)
+  * [🌆 Screenshots](plugins/tomato-dusk/screenshots.md)
 * [⚔ Tomato Chat](plugins/tomato-chat/README.md)
   * [🏗 Setup](plugins/tomato-chat/setup.md)
   * [📐 Use](plugins/tomato-chat/use.md)
