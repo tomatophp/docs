@@ -18,12 +18,15 @@ before starting to install tomato-ecommerce make sure that you have this package
 * [Tomato Translations](../tomato-translations.md)
 * [Tomato Menus](../tomato-menus/)
 * [Tomato Category](../tomato-category/)
+* [Tomato Notifications](../tomato-notifications/)
+* [Tomato Forms](../tomato-forms/)
 * [Tomato CRM](../tomato-crm/)
 * [Tomato CMS](../tomato-cms/)
 * [Tomato Wallet](../tomato-wallet/)
 * [Tomato Products](../tomato-products/)
 * [Tomato Orders](../tomato-orders/)
 * [Tomato Coupons](../tomato-coupons/)
+* [Tomato Support](../tomato-support/)
 * [Tomato Themes](../tomato-themes/)
 
 ### Installation
