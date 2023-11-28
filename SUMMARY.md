@@ -141,6 +141,7 @@
 * [🎒 Tomato Backup](plugins/tomato-backup.md)
 * [📂 Tomato Browser](plugins/tomato-browser.md)
 * [📕 Tomato Logs](plugins/tomato-logs.md)
+* [📕 Tomato Themes](plugins/tomato-themes.md)
 
 ## Helpers
 
