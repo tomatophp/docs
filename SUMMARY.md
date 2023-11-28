@@ -133,6 +133,7 @@
 * [🛍 Tomato Ecommerce](plugins/tomato-ecommerce/README.md)
   * [💿 Config](plugins/tomato-ecommerce/config.md)
   * [🌆 Screenshots](plugins/tomato-ecommerce/screenshots.md)
+* [🎭 Tomato Themes](plugins/tomato-themes.md)
 * [✈ Tomato API](plugins/tomato-api.md)
 * [🚦 Tomato Figma](plugins/tomato-figma.md)
 * [🌟 Tomato SaaS](plugins/tomato-saas.md)
@@ -141,7 +142,6 @@
 * [🎒 Tomato Backup](plugins/tomato-backup.md)
 * [📂 Tomato Browser](plugins/tomato-browser.md)
 * [📕 Tomato Logs](plugins/tomato-logs.md)
-* [📕 Tomato Themes](plugins/tomato-themes.md)
 
 ## Helpers
 
