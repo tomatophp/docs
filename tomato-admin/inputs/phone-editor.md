@@ -1,6 +1,6 @@
 # 📞 Phone Editor
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 you can make an easy phone with country code and flag by using this component
 

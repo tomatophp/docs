@@ -1,6 +1,6 @@
 # 🏯 Install Cloudpanel
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 to start working on the new server you need to install a lot of packages, or use a docker container, the easy way to start deploying a Laravel php app is to get a VPS from any service provider like AWS EC2 or Hetziner Cloud ...etc, after you got your VPS and **it must be Ubuntu 22.01** you can follow this lesson.
 

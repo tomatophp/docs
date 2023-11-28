@@ -4,7 +4,7 @@ description: Manage your translation with DB and cache
 
 # 🌎 Filament Translations
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Manage your translation with DB and cache, you can scan your language tags like `trans()`, `__()`, and get the string inside and translate them using UI.
 

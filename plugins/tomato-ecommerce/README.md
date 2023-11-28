@@ -10,6 +10,22 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-11-23 at 4.52.57 PM (1).png" alt=""><figcaption></figcaption></figure>
 
+before starting to install tomato-ecommerce make sure that you have this package installed and configured
+
+* [Tomato Admin](broken-reference)
+* [Tomato Roles](../tomato-roles/)
+* [Tomato Settings](../tomato-settings/)
+* [Tomato Translations](../tomato-translations.md)
+* [Tomato Menus](../tomato-menus/)
+* [Tomato Category](../tomato-category/)
+* [Tomato CRM](../tomato-crm/)
+* [Tomato CMS](../tomato-cms/)
+* [Tomato Wallet](../tomato-wallet/)
+* [Tomato Products](../tomato-products/)
+* [Tomato Orders](../tomato-orders/)
+* [Tomato Coupons](../tomato-coupons/)
+* [Tomato Themes](../tomato-themes/)
+
 ### Installation
 
 ```
