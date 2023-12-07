@@ -6,7 +6,7 @@ description: >-
 
 # 🚀 Tomato Orders
 
-<figure><img src="../../.gitbook/assets/screenshot (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-11-23 at 4.34.05 PM (1).png" alt=""><figcaption></figcaption></figure>
 

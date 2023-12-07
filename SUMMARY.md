@@ -143,6 +143,8 @@
   * [💿 Config](plugins/tomato-invoices/config.md)
 * [🚛 Tomato Inventory](plugins/tomato-inventory/README.md)
   * [💿 Config](plugins/tomato-inventory/config.md)
+* [🧾 Tomato POS](plugins/tomato-pos/README.md)
+  * [💿 Config](plugins/tomato-pos/config.md)
 * [✈ Tomato API](plugins/tomato-api.md)
 * [🚦 Tomato Figma](plugins/tomato-figma.md)
 * [🌟 Tomato SaaS](plugins/tomato-saas.md)
