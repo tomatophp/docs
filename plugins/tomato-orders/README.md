@@ -22,6 +22,26 @@ after installing your package please run this command
 php artisan tomato-orders:install
 ```
 
+### Add Items & Search Components
+
+now we need to add 2 components to app.js file
+
+```javascript
+import TomatoSearch from "../../vendor/tomatophp/tomato-orders/resources/js/TomatoSearch.vue";
+import TomatoItems from "../../vendor/tomatophp/tomato-orders/resources/js/TomatoItems.vue";
+
+createApp({
+    render: renderSpladeApp({ el })
+})
+    .use(SpladePlugin, {
+        max_keep_alive: 10,
+        transform_anchors: false,
+        progress_bar: true,
+    })
+    .component("TomatoSearch", TomatoSearch)
+    .component("TomatoItems", TomatoItems)
+```
+
 ### Changelog
 
 Please see [CHANGELOG](https://github.com/tomatophp/tomato-orders/blob/master/CHANGELOG.md) for more information on what has changed recently.
