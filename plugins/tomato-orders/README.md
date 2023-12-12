@@ -42,6 +42,12 @@ createApp({
     .component("TomatoItems", TomatoItems)
 ```
 
+now rebuild your assets
+
+```bash
+yarn & yarn build
+```
+
 ### Changelog
 
 Please see [CHANGELOG](https://github.com/tomatophp/tomato-orders/blob/master/CHANGELOG.md) for more information on what has changed recently.
