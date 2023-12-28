@@ -3,7 +3,7 @@
 you need to install vue-flow to make this package work.
 
 ```bash
-yarn add @vue-flow/background @vue-flow/core @vue-flow/node-toolbar 
+yarn add @vue-flow/background @vue-flow/core @vue-flow/controls @vue-flow/minimap @vue-flow/node-toolbar @vue-flow/node-resizer 
 ```
 
 Now you need to build your assets
