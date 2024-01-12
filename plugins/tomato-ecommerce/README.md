@@ -29,6 +29,28 @@ before starting to install tomato-ecommerce make sure that you have this package
 * [Tomato Support](../tomato-support/)
 * [Tomato Themes](../tomato-themes/)
 
+### Before Installation
+
+Ensure that PHP sodium extension is enabled.
+
+### Steps to Enable Sodium Extension
+
+* Run the following command in the terminal and note the php.ini file path
+  
+```
+  php --ini
+```
+
+Example path: C:\laragon\bin\php\php-8.1.10-Win32-vs16-x64\php.ini
+
+* Locate and open the php.ini file in a text editor.
+
+* Find the line containing `extension=sodium` and uncomment it by removing the semicolon (;) at the beginning.
+
+* Save the file and restart your PHP environment.
+
+Now, the sodium extension should be active for your PHP installation. 
+
 ### Installation
 
 ```
