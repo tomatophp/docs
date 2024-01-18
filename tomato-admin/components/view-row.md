@@ -46,3 +46,5 @@ and it's accepted on value just string value and you can use this types:
 * icon
 * color
 * bool
+* copy
+* password

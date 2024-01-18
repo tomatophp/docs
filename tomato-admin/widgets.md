@@ -27,3 +27,15 @@ public function boot()
 ```
 
 and you will see the widget on the homepage of the dashboard directly.
+
+### Widget Component
+
+you can use Widget as a component like this
+
+```html
+ <x-tomato-admin-widget 
+   :title="__('Total Users')" 
+   icon="bx bxs-user" 
+   :counter="\App\Models\Users::query()->count()"
+ />
+```

@@ -39,6 +39,9 @@
   * [👨💻 Code Editor](tomato-admin/inputs/code-editor.md)
   * [⚡ Select Input](tomato-admin/inputs/select-input.md)
   * [🔚 Submit](tomato-admin/inputs/submit.md)
+  * [🧾 Items](tomato-admin/inputs/items.md)
+  * [🔍 Search](tomato-admin/inputs/search.md)
+  * [🚁 Icon](tomato-admin/inputs/icon.md)
 * [🗜 Components](tomato-admin/components/README.md)
   * [🔗 Relation Manager](tomato-admin/components/relation-manager.md)
   * [🧊 Container](tomato-admin/components/container.md)
@@ -46,6 +49,19 @@
   * [🌉 Widget](tomato-admin/components/widget.md)
   * [🔘 Button](tomato-admin/components/button.md)
   * [📖 Menu](tomato-admin/components/menu.md)
+  * [👾 Tooltip](tomato-admin/components/tooltip.md)
+  * [© Clipboard](tomato-admin/components/clipboard.md)
+  * [🛣 Slider](tomato-admin/components/slider.md)
+  * [ℹ Action Buttons](tomato-admin/components/action-buttons.md)
+  * [🍅 Application Logo](tomato-admin/components/application-logo.md)
+  * [🔽 Dropdown](tomato-admin/components/dropdown.md)
+  * [⏸ Paginator](tomato-admin/components/paginator.md)
+* [📑 Table](tomato-admin/table/README.md)
+  * [✅ Bulk Actions](tomato-admin/table/bulk-actions.md)
+  * [🗄 Filters](tomato-admin/table/filters.md)
+  * [🦘 Slots](tomato-admin/table/slots.md)
+* [🔓 Jetstream & Fortify](tomato-admin/jetstream-and-fortify.md)
+* [🆕 Upgrade](tomato-admin/upgrade.md)
 
 ## Tomato PHP
 
@@ -134,6 +150,8 @@
   * [🎭 Install E-commerce Theme](plugins/tomato-ecommerce/install-e-commerce-theme.md)
   * [💿 Config](plugins/tomato-ecommerce/config.md)
   * [🌆 Screenshots](plugins/tomato-ecommerce/screenshots.md)
+* [🏗 Tomato Sections](plugins/tomato-sections/README.md)
+  * [💿 Config](plugins/tomato-sections/config.md)
 * [🎭 Tomato Themes](plugins/tomato-themes/README.md)
   * [🏂 Create New Theme](plugins/tomato-themes/create-new-theme.md)
   * [🔳 Use Sections](plugins/tomato-themes/use-sections.md)
@@ -153,8 +171,6 @@
 * [🎒 Tomato Backup](plugins/tomato-backup.md)
 * [📂 Tomato Browser](plugins/tomato-browser.md)
 * [📕 Tomato Logs](plugins/tomato-logs.md)
-* [🏗 Tomato Sections](plugins/tomato-sections/README.md)
-  * [💿 Confi](plugins/tomato-sections/confi.md)
 
 ## Helpers
 
