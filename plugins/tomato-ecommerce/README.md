@@ -12,7 +12,7 @@ description: >-
 
 before starting to install tomato-ecommerce make sure that you have this package installed and configured
 
-* [Tomato Admin](broken-reference)
+* [Tomato Admin](broken-reference/)
 * [Tomato Roles](../tomato-roles/)
 * [Tomato Settings](../tomato-settings/)
 * [Tomato Translations](../tomato-translations.md)
@@ -26,6 +26,7 @@ before starting to install tomato-ecommerce make sure that you have this package
 * [Tomato Products](../tomato-products/)
 * [Tomato Orders](../tomato-orders/)
 * [Tomato Coupons](../tomato-coupons/)
+* [Tomato Sections](../tomato-sections/)
 * [Tomato Support](../tomato-support/)
 * [Tomato Themes](../tomato-themes/)
 
@@ -36,7 +37,7 @@ Ensure that PHP sodium extension is enabled.
 ### Steps to Enable Sodium Extension
 
 * Run the following command in the terminal and note the php.ini file path
-  
+
 ```
   php --ini
 ```
@@ -44,12 +45,10 @@ Ensure that PHP sodium extension is enabled.
 Example path: C:\laragon\bin\php\php-8.1.10-Win32-vs16-x64\php.ini
 
 * Locate and open the php.ini file in a text editor.
-
 * Find the line containing `extension=sodium` and uncomment it by removing the semicolon (;) at the beginning.
-
 * Save the file and restart your PHP environment.
 
-Now, the sodium extension should be active for your PHP installation. 
+Now, the sodium extension should be active for your PHP installation.
 
 ### Installation
 
@@ -69,7 +68,7 @@ Please see [CHANGELOG](https://github.com/tomatophp/tomato-ecommerce/blob/master
 
 ### Security
 
-Please see [SECURITY](https://github.com/tomatophp/tomato-ecommerce/blob/master/SECURITY.md) for more information about security.
+Please see [SECURITY](https://github.com/tomatophp/tomato-ecommerce/blob/master/SECURITY.md) for more security information.
 
 ### Credits
 
