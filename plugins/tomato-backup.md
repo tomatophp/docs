@@ -6,6 +6,16 @@ description: Backup plugin for TomatoPHP build with spatie laravel-backup
 
 <figure><img src="../.gitbook/assets/screenshot (5).png" alt=""><figcaption></figcaption></figure>
 
+### Before Installation
+
+this package requires sqlite3 ex of PHP to work so please install it&#x20;
+
+On Linux use this command&#x20;
+
+```bash
+sudo apt-get install php8.2-sqlite3
+```
+
 ### Installation
 
 ```
