@@ -42,7 +42,7 @@ please review these packages before starting development.
 ### Features
 
 * SPA App With Blade
-* CURD Generator [Web](broken-reference/) / [API](plugins/tomato-api.md)
+* CRUD Generator Web / API [Web](broken-reference/) / [API](plugins/tomato-api.md)
 * Support [HMVC](https://nwidart.com/laravel-modules/v6/introduction) Architecture
 * [Authentication & User Manager](plugins/tomato-roles/)
 * Responsive UI Using [Filament Template](broken-reference/)
