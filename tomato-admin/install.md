@@ -26,3 +26,17 @@ After Tomato installs everything run your npm
 yarn
 yarn build
 ```
+
+### Allow Spatie Media Library inside your app
+
+if you want to use media features inside your app you need to complete setup of Spatie Media Library, it's easy just publish the migration and migrate it.
+
+```bash
+php artisan vendor:publish --provider="Spatie\MediaLibrary\MediaLibraryServiceProvider" --tag="medialibrary-migrations"
+```
+
+now run your migration
+
+```bash
+php artisan migrate
+```
