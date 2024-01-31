@@ -190,6 +190,7 @@
 
 ## Learn
 
+* [🛍 Build E-Commerce](learn/build-e-commerce.md)
 * [🙏 Task To Get Start](learn/task-to-get-start.md)
 * [🔴 Use Github](learn/use-github.md)
 * [🔥 Deploy Laravel App Using GitHub Actions](learn/deploy-laravel-app-using-github-actions/README.md)
