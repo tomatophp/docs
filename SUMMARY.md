@@ -164,6 +164,10 @@
   * [💿 Config](plugins/tomato-inventory/config.md)
 * [🧾 Tomato POS](plugins/tomato-pos/README.md)
   * [💿 Config](plugins/tomato-pos/config.md)
+* [📠 Tomato Eddy](plugins/tomato-eddy/README.md)
+  * [💿 Config](plugins/tomato-eddy/config.md)
+* [👨💻 Tomato User Activities](plugins/tomato-user-activities/README.md)
+  * [💿 Config](plugins/tomato-user-activities/config.md)
 * [✈ Tomato API](plugins/tomato-api.md)
 * [🚦 Tomato Figma](plugins/tomato-figma.md)
 * [🌟 Tomato SaaS](plugins/tomato-saas.md)
@@ -172,10 +176,6 @@
 * [🎒 Tomato Backup](plugins/tomato-backup.md)
 * [📂 Tomato Browser](plugins/tomato-browser.md)
 * [📕 Tomato Logs](plugins/tomato-logs.md)
-* [📠 Tomato Eddy](plugins/tomato-eddy/README.md)
-  * [💿 Config](plugins/tomato-eddy/config.md)
-* [👨💻 Tomato User Activities](plugins/tomato-user-activities/README.md)
-  * [💿 Config](plugins/tomato-user-activities/config.md)
 
 ## Helpers
 
