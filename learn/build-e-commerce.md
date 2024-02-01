@@ -498,6 +498,17 @@ now you need to reload the composer
 composer dump-autoload
 ```
 
+now inside your tailwind.config.js add these lines\
+
+
+```json
+content: [
+    ...
+    "./Themes/**/*.blade.php",
+    "./Themes/**/**/*.blade.php",
+],
+```
+
 now your theme is ready to upload or create a new theme.
 
 ### Install Tomato E-Commerce
