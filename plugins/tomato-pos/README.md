@@ -6,7 +6,7 @@ description: Full POS system for tomato ordering and inventory
 
 
 
-<figure><img src="../../.gitbook/assets/screenshot (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-12-07 at 6.46.05 PM.png" alt=""><figcaption></figcaption></figure>
 

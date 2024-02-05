@@ -4,7 +4,7 @@ description: Offers and coupons, gift cards manager for TomatoPHP e-commerce sys
 
 # 💯 Tomato Coupons
 
-<figure><img src="../../.gitbook/assets/screenshot (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-11-23 at 4.43.02 PM (1).png" alt=""><figcaption></figcaption></figure>
 

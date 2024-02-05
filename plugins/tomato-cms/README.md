@@ -4,7 +4,7 @@ description: full CMS System to manage your content build for Tomato PHP
 
 # 📃 Tomato CMS
 
-<figure><img src="../../.gitbook/assets/screenshot (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/screenshot (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Installation
 
