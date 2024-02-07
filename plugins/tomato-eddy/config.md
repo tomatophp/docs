@@ -38,6 +38,14 @@ we use webhook to interact with server tasks, so you need to make your URL onlin
 WEBHOOK_URL=https://example.com
 ```
 
+make sure that you add endpoint of the webhook to `VerifyCsrfToken` on `$except` array like this
+
+```php
+protected $except = [
+    '/webhook/*',
+];
+```
+
 ### Publish Assets
 
 you can publish a config file by using this command
