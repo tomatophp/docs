@@ -4,7 +4,7 @@
 * [🏅 Support](support.md)
 * [🤝 Contributing](contributing.md)
 * [🛣 Screenshots](screenshots.md)
-* [🌎 Demo](https://demo.tomatophp.com/)
+* [🌎 Demo](https://tomatophp.com/)
 
 ## Get Started
 

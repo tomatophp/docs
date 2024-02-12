@@ -47,7 +47,7 @@ yarn build
 
 now your app is ready to login `admin/login`
 
-but you need to create a user from `/register` or just install [tomato-roles](../plugins/tomato-roles/ "mention")
+you can use `admin@admin.com` and `password` as a username and password for admin.
 
 enjoy it 🍅
 
@@ -70,10 +70,24 @@ you can run your socket server just by running this command without any config
 php artisan websocket:serve
 ```
 
+### Ubuntu Auto Install Script
+
+if you have a fresh install Ubuntu OS you can install all needs for Tomato by just using 1 line
+
+```
+ubuntu-22-install-script
+```
+
+it will start the install script and ask you for your root password.
+
 ### Installed Plugins
 
 * [Tomato Splade](https://splade.dev/)
 * [Tomato Admin](https://github.com/tomatophp/tomato-admin)
+* [Tomato Roles](../plugins/tomato-roles/)
+* [Tomato Translations](../plugins/tomato-translations.md)
+* [Tomato Logs](../plugins/tomato-logs.md)
+* [Tomato Backup](../plugins/tomato-backup.md)
 
 ### More Plugins
 
