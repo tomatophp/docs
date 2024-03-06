@@ -1,5 +1,5 @@
 ---
-description: Plugins installer for Tomato PHP framework
+description: Plugins installer for Tomato PHP framework, and plugin generator
 ---
 
 # 🔌 Get Started

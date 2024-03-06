@@ -1,4 +1,4 @@
-# 🛍 Build E-Commerce
+# 🛍️ Build E-Commerce
 
 hi, community.
 
@@ -543,19 +543,13 @@ now you need to change your site SEO data and your site Logo from this endpoint 
 
 Having established a solid foundation, including CRM, role management, and various essential packages, we're now ready to enhance the visual appeal of our E-Commerce and CMS platforms. Introducing our user-friendly theme with a simple yet stylish design – an ideal canvas for customization. Let's embark on the installation process to seamlessly integrate this theme and provide users the flexibility to tailor it to their preferences.
 
-inside your Themes Folder clone this repo
+we have a ready E-Commerce theme you can install it by just using a composer like this
 
 ```bash
-cd Themes
+composer require tomatophp/ecommerce-theme-module
 ```
 
-now clone our Theme.
-
-```bash
-git clone git@github.com:tomatophp/Ecommerce.git
-```
-
-now go to your dashboard `/themes` and you will get the new theme you can just activate it.
+now go to your dashboard `/themes` and you will get the new theme you can activate it.
 
 > Please note that you must not have `/` route on your main `routes/web.php` because these routes can override the Theme Routes.
 
