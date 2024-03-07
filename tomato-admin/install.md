@@ -40,3 +40,15 @@ now run your migration
 ```bash
 php artisan migrate
 ```
+
+now it's time to allow modules on your app by just adding this line to composer.json
+
+```json
+"autoload": {
+    "psr-4": {
+        ...
+        "Modules\\" : "Modules/"
+    }
+},
+```
+
