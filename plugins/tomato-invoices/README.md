@@ -12,6 +12,12 @@ description: Invoices Generator and Management for Tomato PHP
 composer require tomatophp/tomato-invoices
 ```
 
+or as Module
+
+```
+composer require tomatophp/tomato-invoices-module
+```
+
 after installing your package please run this command
 
 ```

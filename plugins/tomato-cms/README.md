@@ -12,6 +12,12 @@ description: full CMS System to manage your content build for Tomato PHP
 composer require tomatophp/tomato-cms
 ```
 
+or as Module
+
+```
+composer require tomatophp/tomato-cms-module
+```
+
 after installing your package please run this command
 
 ```

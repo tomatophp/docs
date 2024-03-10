@@ -12,6 +12,12 @@ description: Account Wallet Manager & Payment Integrations For TomatoPHP and Tom
 composer require tomatophp/tomato-wallet
 ```
 
+or as Module
+
+```
+composer require tomatophp/tomato-wallet-module
+```
+
 after installing your package please run this command
 
 ```bash

@@ -4,7 +4,7 @@ description: >-
   build with Laravel-settings
 ---
 
-# ⚙ Tomato Settings
+# ⚙️ Tomato Settings
 
 <figure><img src="../../.gitbook/assets/screenshot (29).png" alt=""><figcaption></figcaption></figure>
 
@@ -14,12 +14,17 @@ description: >-
 composer require tomatophp/tomato-settings
 ```
 
+or as Module
+
+```
+composer require tomatophp/tomato-settings-module
+```
+
 after installation use this command to install the package and publish assets
 
 ```
 php artisan tomato-settings:install
 ```
-
 
 ### Changelog
 

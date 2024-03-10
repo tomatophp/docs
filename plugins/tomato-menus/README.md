@@ -12,6 +12,12 @@ description: Menus manager to build your menus with json file or database provid
 composer require tomatophp/tomato-menus
 ```
 
+or as Module
+
+```
+composer require tomatophp/tomato-menus-module
+```
+
 after installing your package please run this command
 
 ```

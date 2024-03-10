@@ -14,6 +14,12 @@ description: Offers and coupons, gift cards manager for TomatoPHP e-commerce sys
 composer require tomatophp/tomato-coupons
 ```
 
+or as Module
+
+```
+composer require tomatophp/tomato-coupons-module
+```
+
 after installing your package please run this command
 
 ```

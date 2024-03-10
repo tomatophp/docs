@@ -16,6 +16,12 @@ description: >-
 composer require tomatophp/tomato-products
 ```
 
+or as Module
+
+```
+composer require tomatophp/tomato-products-module
+```
+
 after installing your package please run this command
 
 ```

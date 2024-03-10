@@ -16,6 +16,12 @@ description: Full POS system for tomato ordering and inventory
 composer require tomatophp/tomato-pos
 ```
 
+or as Module
+
+```
+composer require tomatophp/tomato-pos-module
+```
+
 after installing your package please run this command
 
 ```

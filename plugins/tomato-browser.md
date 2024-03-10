@@ -22,6 +22,12 @@ sudo apt-get install php8.2-sqlite3
 composer require tomatophp/tomato-browser
 ```
 
+or as Module
+
+```
+composer require tomatophp/tomato-browser-module
+```
+
 after install run this command
 
 ```

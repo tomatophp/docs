@@ -16,6 +16,12 @@ we are building a full notification system for you with multi-provider like mail
 composer require tomatophp/tomato-notifications
 ```
 
+or as Module
+
+```
+composer require tomatophp/tomato-notifications-module
+```
+
 after installation use this command to install the package and publish assets
 
 ```bash

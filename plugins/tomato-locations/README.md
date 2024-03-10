@@ -12,6 +12,12 @@ description: Database seeds for Locations plugin for TomatoPHP
 composer require tomatophp/tomato-locations
 ```
 
+or as Module
+
+```
+composer require tomatophp/tomato-locations-module
+```
+
 after install use this command to publish assets and generate permissions
 
 ```

@@ -12,6 +12,12 @@ description: manage category/tags/types for any model with splade/tomato PHP
 composer require tomatophp/tomato-category
 ```
 
+or as Module
+
+```
+composer require tomatophp/tomato-category-module
+```
+
 after installing your package please run this command
 
 ```

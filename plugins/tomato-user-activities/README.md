@@ -4,7 +4,7 @@ description: >-
   made to you laravel application
 ---
 
-# 👨💻 Tomato User Activities
+# 👨‍💻 Tomato User Activities
 
 
 
@@ -18,6 +18,12 @@ This package has been inspired by the package [https://github.com/andersao/larav
 
 ```
 composer require tomatophp/tomato-user-activities
+```
+
+or as Module
+
+```
+composer require tomatophp/tomato-user-activities-module
 ```
 
 ### Changelog

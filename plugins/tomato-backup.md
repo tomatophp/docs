@@ -22,6 +22,12 @@ sudo apt-get install php8.2-sqlite3
 composer require tomatophp/tomato-backup
 ```
 
+or as Module
+
+```
+composer require tomatophp/tomato-backup-module
+```
+
 after that use this command to install
 
 ```

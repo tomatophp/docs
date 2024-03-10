@@ -7,6 +7,13 @@ Ticketing and support system with API for tomato admin
 ```bash
 composer require tomatophp/tomato-support
 ```
+
+or as Module
+
+```
+composer require tomatophp/tomato-support-module
+```
+
 after install your package please run this command
 
 ```bash
@@ -31,7 +38,7 @@ Please see [SECURITY](SECURITY.md) for more information about security.
 
 ## Credits
 
-- [Tomatophp](mailto:info@3x1.io)
+* [Tomatophp](mailto:info@3x1.io)
 
 ## License
 

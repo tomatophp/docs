@@ -14,6 +14,12 @@ description: >-
 composer require tomatophp/tomato-roles
 ```
 
+or as Module
+
+```
+composer require tomatophp/tomato-roles-module
+```
+
 to make your model accept roles you must add this trait to it
 
 ```php

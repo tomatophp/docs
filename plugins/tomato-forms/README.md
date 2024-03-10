@@ -11,6 +11,12 @@ description: Build a full Forms with Fields on Database and save it to user meta
 <pre><code><strong>composer require tomatophp/tomato-forms
 </strong></code></pre>
 
+or as Module
+
+```
+composer require tomatophp/tomato-forms-module
+```
+
 after installation please run this command
 
 ```

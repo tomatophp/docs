@@ -2,7 +2,7 @@
 description: Artisan terminal to run artisan commands using GUI
 ---
 
-# 👨💻 Tomato Artisan
+# 👨‍💻 Tomato Artisan
 
 <figure><img src="../.gitbook/assets/screenshot (26).png" alt=""><figcaption></figcaption></figure>
 
@@ -18,8 +18,13 @@ sudo apt-get install php8.2-sqlite3
 
 ### Installation
 
+<pre><code><strong>composer require tomatophp/tomato-artisan
+</strong></code></pre>
+
+or as Module
+
 ```
-composer require tomatophp/tomato-artisan
+composer require tomatophp/tomato-artisan-module
 ```
 
 after install use this command

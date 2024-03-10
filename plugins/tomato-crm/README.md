@@ -2,7 +2,7 @@
 description: manage category/tags/types for any model with splade/tomato PHP
 ---
 
-# 👨💼 Tomato CRM
+# 👨‍💼 Tomato CRM
 
 <figure><img src="../../.gitbook/assets/screenshot (4).png" alt=""><figcaption></figcaption></figure>
 
@@ -12,13 +12,19 @@ description: manage category/tags/types for any model with splade/tomato PHP
 composer require tomatophp/tomato-crm
 ```
 
+or as Module
+
+```
+composer require tomatophp/tomato-crm-module
+```
+
 after installing your package please run this command
 
 ```
 php artisan tomato-crm:install
 ```
 
-### Publish Account Model
+Publish Account Model
 
 you can publish your account model to add other relations or implement some interfaces by using this command
 

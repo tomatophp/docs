@@ -12,6 +12,12 @@ description: Inventory Management for any type of product with reports and barco
 composer require tomatophp/tomato-inventory
 ```
 
+or as Module
+
+```
+composer require tomatophp/tomato-inventory-module
+```
+
 after installing your package please run this command
 
 ```

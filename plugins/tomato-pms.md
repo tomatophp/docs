@@ -2,7 +2,7 @@
 description: Project Management System for TomatoPHP Echo System
 ---
 
-# 👨💼 Tomato PMS
+# 👨‍💼 Tomato PMS
 
 <figure><img src="../.gitbook/assets/screenshot.png" alt=""><figcaption></figcaption></figure>
 
@@ -12,6 +12,12 @@ description: Project Management System for TomatoPHP Echo System
 
 ```
 composer require tomatophp/tomato-pms
+```
+
+or as Module
+
+```
+composer require tomatophp/tomato-pms-module
 ```
 
 after installing your package please run this command

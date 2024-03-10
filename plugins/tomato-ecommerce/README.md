@@ -4,7 +4,7 @@ description: >-
   functions and ordering functions
 ---
 
-# 🛍 Tomato Ecommerce
+# 🛍️ Tomato Ecommerce
 
 <figure><img src="../../.gitbook/assets/screenshot (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -54,6 +54,12 @@ Now, the sodium extension should be active for your PHP installation.
 
 ```
 composer require tomatophp/tomato-ecommerce
+```
+
+or as Module
+
+```
+composer require tomatophp/tomato-ecommerce-module
 ```
 
 after installing your package please run this command

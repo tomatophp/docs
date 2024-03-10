@@ -22,6 +22,12 @@ sudo apt-get install php8.2-sqlite3
 composer require tomatophp/tomato-logs
 ```
 
+or as Module
+
+```
+composer require tomatophp/tomato-logs-module
+```
+
 after installation please run this command to install
 
 ```
