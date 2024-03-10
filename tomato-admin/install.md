@@ -32,7 +32,7 @@ yarn build
 if you want to use media features inside your app you need to complete setup of Spatie Media Library, it's easy just publish the migration and migrate it.
 
 ```bash
-php artisan vendor:publish --provider="Spatie\MediaLibrary\MediaLibraryServiceProvider" --tag="medialibrary-migrations"
+php artisan vendor:publish --provider="Spatie\MediaLibrary\MediaLibraryServiceProvider"
 ```
 
 now run your migration
