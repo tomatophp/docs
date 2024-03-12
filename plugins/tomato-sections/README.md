@@ -2,7 +2,7 @@
 description: Sections For Tomato Themes To build any app with Theme Builder
 ---
 
-# 🏗 Tomato Sections
+# 🏗️ Tomato Sections
 
 <figure><img src="https://github.com/tomatophp/tomato-sections/raw/master/art/screenshot.png" alt=""><figcaption></figcaption></figure>
 
@@ -10,6 +10,12 @@ description: Sections For Tomato Themes To build any app with Theme Builder
 
 ```
 composer require tomatophp/tomato-sections
+```
+
+or as Module
+
+```
+composer require tomatophp/tomato-sections-module
 ```
 
 after install your package please run this command
