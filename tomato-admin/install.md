@@ -2,6 +2,10 @@
 
 <figure><img src="../.gitbook/assets/screenshot (27).png" alt=""><figcaption></figcaption></figure>
 
+
+
+{% embed url="https://www.youtube.com/watch?v=MdJPtoFn2xc" %}
+
 to install this package you use this command
 
 ```
