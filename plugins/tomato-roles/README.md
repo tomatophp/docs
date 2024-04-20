@@ -8,6 +8,8 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/screenshot (18).png" alt=""><figcaption></figcaption></figure>
 
+{% embed url="https://youtu.be/uXCIvN0Cszk" %}
+
 ### Installation
 
 ```
