@@ -56,3 +56,10 @@ now it's time to allow modules on your app by just adding this line to composer.
 },
 ```
 
+### Create New User
+
+you can create a new user to access the dashboard by using this command
+
+```bash
+php artisan tomato:user
+```
