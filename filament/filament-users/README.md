@@ -28,7 +28,7 @@ Please see [SECURITY](https://github.com/tomatophp/filament-users/blob/master/SE
 
 ### Credits <a href="#user-content-credits" id="user-content-credits"></a>
 
-* [Fady Mondy](mailto:info@3x1.io)
+* [Fady Mondy](https://wa.me/+201207860084)
 
 ### License <a href="#user-content-license" id="user-content-license"></a>
 
