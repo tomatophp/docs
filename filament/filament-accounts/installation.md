@@ -13,7 +13,16 @@ php artisan filament-accounts:install
 if you are not using this package as a plugin please register the plugin on `/app/Providers/Filament/AdminPanelProvider.php`
 
 ```php
-->plugin(\TomatoPHP\FilamentAccounts\FilamentAccountsPlugin::make())
+->plugin(\TomatoPHP\FilamentAccounts\FilamentAccountsPlugin::make()
+    ->useAccountMeta()
+    ->showAddressField()
+    ->showTypeField()
+    ->useRequests()
+    ->useContactUs()
+    ->useLoginBy()
+    ->useAvatar()
+    ->useAPIs()
+)
 ```
 
 ### Publish Account Model
@@ -47,14 +56,19 @@ return [
     */
     "features" => [
         "accounts" => true,
+        "meta" => true,
         "locations" => true,
         "contacts" => true,
         "requests" => true,
         "notifications" => true,
+        "loginBy" => true,
+        "avatar" => true,
+        "types" => true,
+        "teams" => true,
         "apis" => true,
         "send_otp" => true,
         "impersonate" => [
-            'active'=> false,
+            'active'=> true,
             'redirect' => '/app',
         ],
     ],

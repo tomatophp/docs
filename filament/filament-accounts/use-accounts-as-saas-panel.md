@@ -8,7 +8,46 @@ Install Jetstream without installing it.
 composer require laravel/jetstream
 ```
 
-on your new panel just use this plugin
+then publish the migrations
+
+```
+php artisan vendor:publish --tag=filament-accounts-teams-migrations
+```
+
+now you need to migrate your database
+
+```
+php artisan migrate
+```
+
+now publish your Accounts model
+
+```
+php artisan vendor:publish --tag="filament-accounts-model"
+```
+
+inside your published model use this implementation
+
+```php
+class Account extends Authenticatable implements HasMedia, FilamentUser, HasAvatar, HasTenants, HasDefaultTenant
+{
+    ...
+    use InteractsWithTenant;
+}
+```
+
+on your main panel, you must use teams
+
+```php
+->plugin(\TomatoPHP\FilamentAccounts\FilamentAccountsPlugin::make()
+        ...
+        ->canLogin()
+        ->canBlocked()
+        ->useTeams()
+)
+```
+
+now on your new panel just use this plugin
 
 ```php
 ->plugin(

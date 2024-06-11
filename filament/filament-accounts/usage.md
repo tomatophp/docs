@@ -1,5 +1,7 @@
 # ⏯️ Usage
 
+
+
 this plugin makes it easy to make a starting point for your app if this app has customers to manage
 
 but here is the problem, every app has a different way of managing customers, so we built a Facade service to control the way you want to manage your customers
@@ -73,4 +75,22 @@ class ProfileController extends Controller
         $this->resource = config('filament-accounts.resource', null);
     }
 }
+```
+
+### Auto Account Meta Caching
+
+on your `.env` add this
+
+```
+CACHE_STORE=array
+MODEL_CACHE_STORE=array
+```
+
+supported cache stores are
+
+```
++ Redis
++ MemCached
++ APC
++ Array
 ```

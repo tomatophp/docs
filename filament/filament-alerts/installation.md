@@ -1,5 +1,7 @@
 # 🏗️ Installation
 
+
+
 before using this package make sure you have installed
 
 * [Filament Spatie Translatable](https://filamentphp.com/plugins/filament-spatie-translatable)
@@ -61,4 +63,14 @@ the notification is run on queue, so you must run the queue worker to send the n
 
 ```php
 php artisan queue:work
+```
+
+#### Hide Notifications Resources
+
+to hide the notification resources from the sidebar you can use the plugin method `hideNotificationsResources` like
+
+```php
+->plugin(\TomatoPHP\FilamentAlerts\FilamentAlertsPlugin::make()
+    ->hideNotificationsResources()
+)
 ```
