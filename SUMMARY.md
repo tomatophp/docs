@@ -272,6 +272,7 @@
   * [🛣️ Screenshots](filament/filament-wallet/screenshots.md)
   * [🏗️ Installation](filament/filament-wallet/installation.md)
   * [⏯️ Usage](filament/filament-wallet/usage.md)
+  * [🏁 Filament Accounts Integration](filament/filament-wallet/filament-accounts-integration.md)
   * [📢 Publish Assets](filament/filament-wallet/publish-assets.md)
 * [✨ Filament Splade](filament/filament-splade/README.md)
   * [🛣️ Screenshots](filament/filament-splade/screenshots.md)

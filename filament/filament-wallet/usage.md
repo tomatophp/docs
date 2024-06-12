@@ -1,12 +1,6 @@
 # ⏯️ Usage
 
-you need first publish the Account Model using this command
-
-```
-php artisan vendor:publish --tag="filament-wallet-model"
-```
-
-then you can use this model in your project and attach this trait to your model
+to add a wallet to your user model on your model add this trait
 
 ```php
 namespace  App\Models;
@@ -20,8 +14,17 @@ class Account extends Model implements Wallet
 }
 ```
 
-now your account has a balance ready.
+now your model has a wallet on your resource add this action to your table
 
-you can get more details about how to use this package in [Bavix Wallet](https://github.com/bavix/laravel-wallet)
+```php
+use TomatoPHP\FilamentWallet\Filament\Actions\WalletAction;
 
-\
+public function table(Table $table): void
+{
+    $table->actions([
+        WalletAction::make('wallet'),
+    ]);
+}
+```
+
+Now, you can charge the wallet of the user by clicking on the wallet action
