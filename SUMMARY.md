@@ -295,6 +295,8 @@
   * [📢 Publish Assets](filament/filament-artisan/publish-assets.md)
 * [📂 Filament Browser](filament/filament-browser/README.md)
   * [🛣️ Screenshots](filament/filament-browser/screenshots.md)
+  * [🏗️ Installation](filament/filament-browser/installation.md)
+  * [📢 Publish Assets](filament/filament-browser/publish-assets.md)
 * [🔥 Filament FCM](filament/filament-fcm/README.md)
   * [🏗️ Installation](filament/filament-fcm/installation.md)
   * [⏯️ Usage](filament/filament-fcm/usage.md)
