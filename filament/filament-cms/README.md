@@ -9,12 +9,12 @@ Full CMS System with easy-to-use page builder & theme manager for FilamentPHP
 ### Features
 
 * [x] &#x20;Content Manager
-* [ ] &#x20;Content Comments & Ratings
-* [ ] &#x20;Youtube Meta Integration
-* [ ] &#x20;Behanace Content Importer
-* [ ] &#x20;GitHub Content Importer
-* [ ] &#x20;Page Builder
-* [ ] &#x20;Theme Manager
+* [x] &#x20;Content Comments & Ratings
+* [x] &#x20;Youtube Meta Integration
+* [x] &#x20;Behanace Content Importer
+* [x] &#x20;GitHub Content Importer
+* [x] &#x20;Page Builder
+* [x] &#x20;Theme Manager
 * [ ] &#x20;Form Builder
 * [ ] &#x20;Ticketing System
 * [ ] &#x20;REST API

@@ -306,6 +306,11 @@
   * [🏗️ Installation](filament/filament-cms/installation.md)
   * [⏯️ Using](filament/filament-cms/using.md)
   * [📢 Publish Assets](filament/filament-cms/publish-assets.md)
+* [🔗 Filament API](filament/filament-api/README.md)
+  * [🛣️ Screenshots](filament/filament-api/screenshots.md)
+  * [🏗️ Installation](filament/filament-api/installation.md)
+  * [⏯️ Usage](filament/filament-api/usage.md)
+  * [📢 Publish Assets](filament/filament-api/publish-assets.md)
 
 ## Learn
 
