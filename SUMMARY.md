@@ -311,6 +311,14 @@
   * [🏗️ Installation](filament/filament-api/installation.md)
   * [⏯️ Usage](filament/filament-api/usage.md)
   * [📢 Publish Assets](filament/filament-api/publish-assets.md)
+* [👜 Filament Ecommerce](filament/filament-ecommerce/README.md)
+  * [🛣️ Screenshots](filament/filament-ecommerce/screenshots.md)
+  * [🏗️ Installation](filament/filament-ecommerce/installation.md)
+  * [📢 Publish Assets](filament/filament-ecommerce/publish-assets.md)
+* [🔚 Filament Twilio](filament/filament-twilio/README.md)
+  * [🏗️ Installation](filament/filament-twilio/installation.md)
+  * [⏯️ Using](filament/filament-twilio/using.md)
+  * [📢 Publish Assets](filament/filament-twilio/publish-assets.md)
 
 ## Learn
 
