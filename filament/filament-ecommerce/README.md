@@ -10,7 +10,7 @@ Build your e-commerce store with FilamentPHP with the Power of Tomato CMS Builde
 
 ### Features
 
-* [x] &#x20;Multi Company / Branches Management
+* [x] Multi-Company / Branches Management
 * [x] &#x20;Product Management
 * [x] &#x20;Product Table Group By Type
 * [x] &#x20;Product Multi Variants
@@ -24,19 +24,28 @@ Build your e-commerce store with FilamentPHP with the Power of Tomato CMS Builde
 * [x] &#x20;Order Table Group By Status
 * [x] &#x20;Order Receipt Print
 * [x] &#x20;Order Table Summary
-* [ ] &#x20;Order Settings
-* [ ] &#x20;Order PDF Export
-* [ ] &#x20;Order Export
-* [ ] &#x20;Order Import
-* [ ] &#x20;Product Import
-* [ ] &#x20;Product Export
+* [x] &#x20;Order Settings
+* [x] &#x20;Order Export
+* [x] &#x20;Order Import
+* [x] &#x20;Order Charts Widgets
+* [x] &#x20;Coupon Management
+* [x] &#x20;Gift Card Management
+* [x] &#x20;Referral Management
+* [x] &#x20;Coupons Service Class
+* [x] &#x20;Add Discount To Order Using Coupon
 * [ ] &#x20;Product Variants On Order
-* [ ] &#x20;Coupon Management
-* [ ] &#x20;Gift Card Management
-* [ ] &#x20;Refferal Management
+* [ ] &#x20;Gift Card Services
+* [ ] &#x20;Gift Card Apply To Account Wallet
 * [ ] &#x20;Pay Order With Wallet
 * [ ] &#x20;Pay Order With Gift Card
-* [ ] &#x20;Add Discount To Order Using Coupon
+* [ ] &#x20;Referral Code Services
+* [ ] &#x20;Referral Code Middleware Counter
+* [ ] &#x20;Order PDF Export
+* [ ] &#x20;Order Facade Methods
+* [ ] &#x20;Order Tracking Page
+* [ ] &#x20;Product Import
+* [ ] &#x20;Product Export
+* [ ] &#x20;Product Clone
 * [ ] &#x20;Cart Manager
 * [ ] &#x20;Comparison Between Products
 * [ ] &#x20;Wishlist Manager
@@ -44,12 +53,9 @@ Build your e-commerce store with FilamentPHP with the Power of Tomato CMS Builde
 * [ ] &#x20;Search History Manager
 * [ ] &#x20;Filament CMS Page Builder Integration
 * [ ] &#x20;Filament CMS Themes Integration
-* [ ] &#x20;Reports Widgets
-* [ ] &#x20;Order Facade Methods
 * [ ] &#x20;Product Service Class
-* [ ] &#x20;Coupons Service Class
-* [ ] &#x20;Ecommerce Service Class
-* [ ] &#x20;Ecommerce APIs
+* [ ] &#x20;E-commerce Service Class
+* [ ] &#x20;E-commerce APIs
 
 ### Support
 
