@@ -338,6 +338,11 @@
   * [🏗️ Installation](filament/filament-translation-component/installation.md)
   * [⏯️ Using](filament/filament-translation-component/using.md)
   * [📢 Publish Assets](filament/filament-translation-component/publish-assets.md)
+* [📒 Filament Notes](filament/filament-notes/README.md)
+  * [🛣️ Screenshot](filament/filament-notes/screenshot.md)
+  * [🏗️ Installation](filament/filament-notes/installation.md)
+  * [⏯️ Using](filament/filament-notes/using.md)
+  * [📢 Publish Assets](filament/filament-notes/publish-assets.md)
 
 ## Learn
 
