@@ -4,7 +4,6 @@
 * [🏅 Support](support.md)
 * [🤝 Contributing](contributing.md)
 * [🛣️ Screenshots](screenshots.md)
-* [🌎 Demo](https://tomatophp.com/)
 
 ## Get Started
 
@@ -188,6 +187,7 @@
 
 ## Filament
 
+* [🌎 Try Plugins](https://tomatophp.com/)
 * [👨‍🏭 Filament Users](filament/filament-users/README.md)
   * [🛣️ Screenshots](filament/filament-users/screenshots.md)
   * [🏗️ Installation](filament/filament-users/installation.md)
