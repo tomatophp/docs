@@ -343,6 +343,15 @@
   * [🏗️ Installation](filament/filament-notes/installation.md)
   * [⏯️ Using](filament/filament-notes/using.md)
   * [📢 Publish Assets](filament/filament-notes/publish-assets.md)
+* [📼 Filament Media Manager](filament/filament-media-manager/README.md)
+  * [🛣️ Screenshots](filament/filament-media-manager/screenshots.md)
+  * [🏗️ Installation](filament/filament-media-manager/installation.md)
+  * [⏯️ Use Component](filament/filament-media-manager/use-component.md)
+  * [🅰️ Add Custom Type](filament/filament-media-manager/add-custom-type.md)
+  * [📂 Allow Sub Folders](filament/filament-media-manager/allow-sub-folders.md)
+  * [🦸‍♂️ Allow User Access](filament/filament-media-manager/allow-user-access.md)
+  * [🎇 Folders API](filament/filament-media-manager/folders-api.md)
+  * [📢 Publish Assets](filament/filament-media-manager/publish-assets.md)
 
 ## Learn
 
