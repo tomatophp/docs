@@ -352,6 +352,12 @@
   * [🦸‍♂️ Allow User Access](filament/filament-media-manager/allow-user-access.md)
   * [🎇 Folders API](filament/filament-media-manager/folders-api.md)
   * [📢 Publish Assets](filament/filament-media-manager/publish-assets.md)
+* [📼 Filament Withdrawals](filament/filament-withdrawals/README.md)
+  * [🛣️ Screenshots](filament/filament-withdrawals/screenshots.md)
+  * [🏗️ Installation](filament/filament-withdrawals/installation.md)
+  * [⏯️ Custom Author Type](filament/filament-withdrawals/custom-author-type.md)
+  * [🔡 Form Builder](filament/filament-withdrawals/form-builder.md)
+  * [📢 Publish Assets](filament/filament-withdrawals/publish-assets.md)
 
 ## Learn
 
