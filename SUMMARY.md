@@ -358,6 +358,10 @@
   * [⏯️ Custom Author Type](filament/filament-withdrawals/custom-author-type.md)
   * [🔡 Form Builder](filament/filament-withdrawals/form-builder.md)
   * [📢 Publish Assets](filament/filament-withdrawals/publish-assets.md)
+* [🧾 Filament POS](filament/filament-pos/README.md)
+  * [🌄 Screenshots](filament/filament-pos/screenshots.md)
+  * [🏗️ Installation](filament/filament-pos/installation.md)
+  * [📢 Publish Assets](filament/filament-pos/publish-assets.md)
 
 ## Learn
 
