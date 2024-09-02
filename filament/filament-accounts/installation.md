@@ -20,14 +20,9 @@ if you are not using this package as a plugin please register the plugin on `/ap
 
 ```php
 ->plugin(\TomatoPHP\FilamentAccounts\FilamentAccountsPlugin::make()
-    ->useAccountMeta()
-    ->showAddressField()
-    ->showTypeField()
-    ->useRequests()
-    ->useContactUs()
-    ->useLoginBy()
-    ->useAvatar()
-    ->useAPIs()
+     ->showAddressField()
+     ->useContactUs()
+     ->useAvatar()
 )
 ```
 
