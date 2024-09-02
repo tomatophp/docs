@@ -4,6 +4,12 @@
 composer require tomatophp/filament-accounts
 ```
 
+publish media lib migration
+
+```bash
+php artisan vendor:publish --provider="Spatie\MediaLibrary\MediaLibraryServiceProvider" --tag="medialibrary-migrations"
+```
+
 after installing your package please run this command
 
 ```bash
