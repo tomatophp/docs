@@ -1,10 +1,3 @@
 # 📂 Allow Sub Folders
 
-you can create and manage subfolders on your media manager on `/app/Providers/Filament/AdminPanelProvider.php`
-
-```php
-->plugin(
-    \TomatoPHP\FilamentMediaManager\FilamentMediaManagerPlugin::make()
-        ->allowSubFolders()
-)
-```
+Docs have been moved to our website at this [link](https://tomatophp.com/en/open-source/filament-media-manager)

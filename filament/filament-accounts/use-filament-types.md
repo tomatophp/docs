@@ -1,10 +1,3 @@
 # 🅰️ Use Filament Types
 
-you can use the types to manage your accounts types by installing [Filament Types](https://github.com/tomatophp/filament-types) and allow `->useTypes()` on the plugin
-
-```php
-->plugin(\TomatoPHP\FilamentAccounts\FilamentAccountsPlugin::make()
-    ...
-    ->useTypes()
-)
-```
+Docs have been moved to our website at this [link](https://tomatophp.com/en/open-source/filament-accounts)

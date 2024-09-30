@@ -1,11 +1,3 @@
 # 📶 Use Selected Module in your panel
 
-you can use the selected module in your panel by using this code in your PanelProvider
-
-```php
-->plugin(\TomatoPHP\FilamentPlugins\FilamentPluginsPlugin::make()->modules([
-    'CRM'
-]))
-```
-
-so you will see only the selected modules in your panel
+Docs have been moved to our website at this [link](https://tomatophp.com/en/open-source/filament-plugins)

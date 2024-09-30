@@ -1,13 +1,3 @@
 # 📢 Publish Assets
 
-you can publish a config file by using this command
-
-```bash
-php artisan vendor:publish --tag="filament-translation-component-config"
-```
-
-you can publish language files by use this command
-
-```bash
-php artisan vendor:publish --tag="filament-translation-component-lang"
-```
+Docs have been moved to our website at this [link](https://tomatophp.com/en/open-source/filament-translation-component)

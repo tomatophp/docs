@@ -1,4 +1,3 @@
 # 🛣️ Screenshots
 
-[\
-![Users List](https://raw.githubusercontent.com/tomatophp/filament-users/master/art/users.png)](https://raw.githubusercontent.com/tomatophp/filament-users/master/art/users.png) [![Edit User](https://raw.githubusercontent.com/tomatophp/filament-users/master/art/edit-user.png)](https://raw.githubusercontent.com/tomatophp/filament-users/master/art/edit-user.png) [![Users Filters](https://raw.githubusercontent.com/tomatophp/filament-users/master/art/users-filter.png)](https://raw.githubusercontent.com/tomatophp/filament-users/master/art/users-filter.png)
+Docs have been moved to our website at this [link](https://tomatophp.com/en/open-source/filament-users)

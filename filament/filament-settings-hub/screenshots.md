@@ -1,3 +1,3 @@
 # 🛣️ Screenshots
 
-[![Screenshot](https://raw.githubusercontent.com/tomatophp/filament-settings-hub/master/arts/settings-hub.png)](https://raw.githubusercontent.com/tomatophp/filament-settings-hub/master/arts/settings-hub.png) [![Screenshot](https://raw.githubusercontent.com/tomatophp/filament-settings-hub/master/arts/setting-page.png)](https://raw.githubusercontent.com/tomatophp/filament-settings-hub/master/arts/setting-page.png)
+Docs have been moved to our website at this [link](https://tomatophp.com/en/open-source/filament-settings-hub)

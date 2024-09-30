@@ -1,3 +1,3 @@
 # 🛣️ Screenshots
 
-[![Screenshot](https://raw.githubusercontent.com/tomatophp/filament-alerts/master/arts/create-template.png)](https://raw.githubusercontent.com/tomatophp/filament-alerts/master/arts/create-template.png) [![Screenshot](https://raw.githubusercontent.com/tomatophp/filament-alerts/master/arts/notifications.png)](https://raw.githubusercontent.com/tomatophp/filament-alerts/master/arts/notifications.png) [![Screenshot](https://raw.githubusercontent.com/tomatophp/filament-alerts/master/arts/notify.png)](https://raw.githubusercontent.com/tomatophp/filament-alerts/master/arts/notify.png) [![Screenshot](https://raw.githubusercontent.com/tomatophp/filament-alerts/master/arts/templates.png)](https://raw.githubusercontent.com/tomatophp/filament-alerts/master/arts/templates.png)
+Docs have been moved to our website at this [link](https://tomatophp.com/en/open-source/filament-alerts)

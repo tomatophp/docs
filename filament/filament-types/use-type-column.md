@@ -1,9 +1,3 @@
 # 🔄 Use Type Column
 
-you can use a type column in your table like this
-
-```php
-use TomatoPHP\FilamentTypes\Components\TypeColumn;
-
-TypeColumn::make('type')->searchable(),
-```
+Docs have been moved to our website at this [link](https://tomatophp.com/en/open-source/filament-types)

@@ -1,3 +1,3 @@
 # 🛣️ Screenshots
 
-[![Types](https://raw.githubusercontent.com/tomatophp/filament-types/master/arts/types.png)](https://raw.githubusercontent.com/tomatophp/filament-types/master/arts/types.png) [![Filters](https://raw.githubusercontent.com/tomatophp/filament-types/master/arts/filters.png)](https://raw.githubusercontent.com/tomatophp/filament-types/master/arts/filters.png) [![Type Col](https://raw.githubusercontent.com/tomatophp/filament-types/master/arts/type-col.png)](https://raw.githubusercontent.com/tomatophp/filament-types/master/arts/type-col.png) [![Form](https://raw.githubusercontent.com/tomatophp/filament-types/master/arts/form.png)](https://raw.githubusercontent.com/tomatophp/filament-types/master/arts/form.png)
+Docs have been moved to our website at this [link](https://tomatophp.com/en/open-source/filament-types)

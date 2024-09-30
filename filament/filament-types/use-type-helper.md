@@ -1,9 +1,3 @@
 # 🎹 Use Type Helper
 
-you can access types from anywhere by using a type helper function
-
-```php
-type_of($key);
-```
-
-it will return the type object
+Docs have been moved to our website at this [link](https://tomatophp.com/en/open-source/filament-types)

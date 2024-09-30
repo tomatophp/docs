@@ -1,11 +1,3 @@
 # ⚙️ API
 
-We support some API to get the notification and make some actions you can find it under `api/notifications` route
-
-you can change the user model by using the plugin method `apiModel` like
-
-```php
-->plugin(\TomatoPHP\FilamentAlerts\FilamentAlertsPlugin::make()
-    ->apiModel(User::class)
-)
-```
+Docs have been moved to our website at this [link](https://tomatophp.com/en/open-source/filament-alerts)

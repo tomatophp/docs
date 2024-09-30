@@ -1,5 +1,3 @@
 # 🏗️ Installation
 
-```bash
-composer require tomatophp/filament-translation-component
-```
+Docs have been moved to our website at this [link](https://tomatophp.com/en/open-source/filament-translation-component)

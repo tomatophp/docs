@@ -1,7 +1,3 @@
 # 🎸 Stop Using Plugins UI
 
-you can stop using the plugin UI by using this code in your PanelProvider
-
-```php
-->plugin(\TomatoPHP\FilamentPlugins\FilamentPluginsPlugin::make()->useUI(false))
-```
+Docs have been moved to our website at this [link](https://tomatophp.com/en/open-source/filament-plugins)

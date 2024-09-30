@@ -1,9 +1,3 @@
-# 🇪🇬 Use Language Switcher
+# 🇪🇬 Language Switcher
 
-You can use the language switcher in your panel by using the following plugin:
-
-```php
-$panel->plugin(\TomatoPHP\FilamentTranslations\FilamentTranslationsPlugin::make())
-```
-
-**NOTE** your auth user table must have `lang` filed on the table to make this switch work fine.
+Docs have been moved to our website at this [link](https://tomatophp.com/en/open-source/filament-translations)

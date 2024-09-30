@@ -1,3 +1,3 @@
 # 🛣️ Screenshots
 
-[![Account Wallet](https://raw.githubusercontent.com/tomatophp/filament-wallet/master/arts/account-wallet.png)](https://raw.githubusercontent.com/tomatophp/filament-wallet/master/arts/account-wallet.png) [![Charge A Wallet](https://raw.githubusercontent.com/tomatophp/filament-wallet/master/arts/charge-wallet.png)](https://raw.githubusercontent.com/tomatophp/filament-wallet/master/arts/charge-wallet.png) [![Wallets List](https://raw.githubusercontent.com/tomatophp/filament-wallet/master/arts/wallet.png)](https://raw.githubusercontent.com/tomatophp/filament-wallet/master/arts/wallet.png) [![Transactions List](https://raw.githubusercontent.com/tomatophp/filament-wallet/master/arts/transactions.png)](https://raw.githubusercontent.com/tomatophp/filament-wallet/master/arts/transactions.png)
+Docs have been moved to our website at this [link](https://tomatophp.com/en/open-source/filament-wallet)
