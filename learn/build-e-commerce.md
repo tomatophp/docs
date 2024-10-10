@@ -37,7 +37,7 @@ php artisan tomato-admin:install
 if you are using macOS you can easily use auto yarn package install if not just build your assets like this
 
 ```bash
-yarn & yarn build
+yarn && yarn build
 ```
 
 now you have tomato-admin installed on your Laravel project.
