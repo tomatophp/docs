@@ -37,7 +37,7 @@ php artisan tomato-admin:install
 if you are using macOS you can easily use auto yarn package install if not just build your assets like this
 
 ```bash
-yarn & yarn build
+yarn && yarn build
 ```
 
 now you have tomato-admin installed on your Laravel project.
@@ -525,9 +525,9 @@ let's install it
 php artisan tomato-ecommerce:install
 ```
 
-now everything i ready to install our e-commerce theme.
+Now everything is ready to install our e-commerce theme.
 
-this package will install tomato-products, tomato-orders, tomato-offers, tomato-branches for you
+This package will install tomato-products, tomato-orders, tomato-offers, tomato-branches for you
 
 to make everything work fine you need some actions, we need to install tomato-branches
 
