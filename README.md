@@ -18,6 +18,10 @@ Get ready to say goodbye to the tedious and time-consuming tasks of web developm
 
 ### Gold Sponsors
 
+<figure><img src=".gitbook/assets/jetbrains-mono-white.png" alt="" width="375"><figcaption></figcaption></figure>
+
+<figure><img src=".gitbook/assets/742.23 x 828.45.png" alt="" width="375"><figcaption></figcaption></figure>
+
 <figure><img src=".gitbook/assets/109404907_3108551212563042_198488632876570388_n.png" alt=""><figcaption></figcaption></figure>
 
 ### Overview
